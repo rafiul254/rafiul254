@@ -480,19 +480,6 @@ print(me.greet())
 
 ---
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rafiul254&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%" alt="Trophies"/>
-
-</div>
-
----
-
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 <div align="center">
 
