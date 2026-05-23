@@ -14,7 +14,7 @@
 </div>
 ---
  
-<img align="right" alt="IoT Robot Animation" width="320" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQwe/giphy.gif"/>
+<img align="right" alt="IoT Robot Animation" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -103,7 +103,7 @@ Currently exploring **Embedded C/C++ systems**, **Computer Vision with OpenCV**,
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=400&lines=Check+out+my+amazing+projects!;Building+the+future+with+code+%26+circuits+board!" alt="Projects Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=650&lines=Check+out+my+amazing+projects!;Building+the+future+with+code+%26+circuits!" alt="Projects Typing SVG" />
 </div>
 
 <table width="100%">
@@ -276,7 +276,7 @@ Currently exploring **Embedded C/C++ systems**, **Computer Vision with OpenCV**,
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=400&lines=Thanks+for+visiting+my+profile!;Happy+coding+%26+building+smart+systems!+%F0%9F%9A%80" alt="Thanks Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=560&lines=Thanks+for+visiting+my+profile!;Happy+coding+%26+building+smart+systems!+%F0%9F%9A%80" alt="Thanks Typing SVG" />
 </div>
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
