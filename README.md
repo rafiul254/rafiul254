@@ -1,34 +1,30 @@
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35)
-
+ 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=700&lines=Hi+there%2C+I'm+Md.+Rafiul+Islam+%F0%9F%91%8B;%F0%9F%A4%96+IoT+%26+Robotics+Engineer+%7C+Embedded+Systems;%E2%9A%A1+C%2FC%2B%2B+%7C+Python+%7C+React+%7C+Flask;%F0%9F%9A%80+Building+Smart+Connected+Systems;%F0%9F%94%A5+Bridging+Hardware%2C+Software+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code%26pause=1000%26color=36BCF7%26width=700%26lines=Hi+there%2C+I'm+Md.+Rafiul+Islam+%F0%9F%91%8B;%F0%9F%A4%96+IoT+%26+Robotics+Engineer+%7C+Embedded+Systems;%E2%9A%A1+C%2FC%2B%2B+%7C+Python+%7C+React+%7C+Flask;%F0%9F%9A%80+Building+Smart+Connected+Systems;%F0%9F%94%A5+Bridging+Hardware%2C+Software+%26+AI" alt="Typing SVG" />
 </div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect%26color=gradient%26customColorList=6,11,20%26height=2"/>
 </div>
-
 ---
-
+ 
 <div align="center">
-
 ## 🌟 About Me
-
+ 
 </div>
-
 ---
-
-<img align="right" alt="IoT Robot Animation" width="320" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+ 
+<img align="right" alt="IoT Robot Animation" width="320" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQwe/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
 - 🎓 **B.Sc. in IoT & Robotics Engineering** — University of Frontier Technology, Bangladesh
-- 💼 **ML Intern** @ SYNTECXHUB(completed) | **Intern** @ BYSDO Ignite Program Batch-04(completed) 
+- 💼 **ML Intern** @ SYNTECXHUB (completed) | **Intern** @ BYSDO Ignite Program Batch-04 (completed) 
 - 🤖 Passionate about **AI + IoT + Robotics integration**
 - 🧠 Working on **IoT**, **Embedded systems**, **Machine Learning**, **Explainable AI** & **Computer Vision**
 - 📸 Photographer @ UFTB Robotics Club | Social Media manager @ UFTB AI community
 
-An **IoT & Robotics engineer** with a driving passion for **smart systems**, **automation**, and **AI Engineer**.
+An **IoT & Robotics engineer** with a driving passion for **smart systems**, **IoT integration**, and **AI Engineer**.
 
 ---
 
@@ -36,11 +32,11 @@ Currently exploring **Embedded C/C++ systems**, **Computer Vision with OpenCV**,
 
 ## 🚀 Core Expertise
 - 🔌 Embedded Systems (ESP32, Arduino, Raspberry Pi, PCB Design)
-- 🤖 Robotics & Automation (LFR, Fire Fighting, Edge Detection Bots)
-- 🧠 Machine Learning, XAI & AI Voice Agents
+- 🤖 Robotics & Automation (LFR, Fire Fighting, Edge Detection Bots, Bike security systems)
+- 🧠 Machine Learning, Weather agents & AI Voice Agents
 - 👁️ Computer Vision (OpenCV)
-- 🌐 Full-Stack Development (React, Flask, Node.js)
-- 📡 IoT Sensor Integration (IR, Ultrasonic, Flame, Soil, LDR)
+- 🌐 Full-Stack Development (React, Flask, Node.js, Next.js)
+- 📡 IoT Sensor Integration (IR, Ultrasonic, Flame, Soil, LDR, Temperature, Vibration)
 
 <br clear="both"/>
 
@@ -107,7 +103,7 @@ Currently exploring **Embedded C/C++ systems**, **Computer Vision with OpenCV**,
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=400&lines=Check+out+my+amazing+projects!;Building+the+future+with+code+%26+circuits!" alt="Projects Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=400&lines=Check+out+my+amazing+projects!;Building+the+future+with+code+%26+circuits board!" alt="Projects Typing SVG" />
 </div>
 
 <table width="100%">
@@ -190,34 +186,30 @@ Currently exploring **Embedded C/C++ systems**, **Computer Vision with OpenCV**,
 </div>
 
 ## 📊 GitHub Stats & Analytics
-
+ 
 <div align="center">
-
-![Rafiul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiul254&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=a8b2d1&custom_title=Rafiul's%20GitHub%20Stats)
-![GitHub Streak](https://streak-stats.demolab.com/?user=rafiul254&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
-
+<img src="https://github-readme-stats.vercel.app/api?username=rafiul254%26show_icons=true%26theme=radical%26hide_border=true%26bg_color=0D1117%26title_color=F85D7F%26icon_color=F8D866%26text_color=a8b2d1" width="48%"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=rafiul254%26theme=radical%26hide_border=true%26background=0D1117%26stroke=F85D7F%26ring=F8D866%26fire=F85D7F%26currStreakLabel=F8D866" width="48%"/>
 </div>
-
 ---
-
+ 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=a8b2d1" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254%26layout=compact%26theme=radical%26hide_border=true%26bg_color=0D1117%26title_color=F85D7F%26text_color=a8b2d1" width="60%"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254&theme=react-dark&hide_border=true&bg_color=0D1117" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254%26theme=react-dark%26hide_border=true%26bg_color=0D1117%26area=true" width="98%"/>
 </div>
-
 ---
-
+ 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,20,6&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect%26color=gradient%26customColorList=11,20,6%26height=2"/>
 </div>
 
 ## 🏆 Achievements & Certifications
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&width=700&lines=%F0%9F%8F%85+ICT+Olympiad+Bangladesh+%E2%80%94+Semi-Final+Round;%F0%9F%8F%86+ILC+National+Top+100+Winner;%F0%9F%8E%93+Dean's+Certificate+%26+Dean's+List;%F0%9F%A4%96+IoT+%26+Robotics+Contest+Third+Place" alt="Achievements Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&width=700&lines=%F0%9F%8F%85+ICT+Olympiad+Bangladesh+%E2%80%94+Semi-Final+Round;%F0%9F%8F%86+ILC+National+Top+100+Winner;%F0%9F%A4%96+IoT+%26+Robotics+Contest+Third+Place" alt="Achievements Typing SVG" />
 </div>
 
 ---
@@ -284,7 +276,7 @@ Currently exploring **Embedded C/C++ systems**, **Computer Vision with OpenCV**,
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=400&lines=Thanks+for+visiting+my+profile!;Happy+coding+%26+building!+%F0%9F%9A%80" alt="Thanks Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=400&lines=Thanks+for+visiting+my+profile!;Happy+coding+%26+building smart systems!+%F0%9F%9A%80" alt="Thanks Typing SVG" />
 </div>
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
