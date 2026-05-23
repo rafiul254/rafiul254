@@ -1,26 +1,28 @@
 <div align="center">
 
-<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,70:00d4ff,100:7b2ff7&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=⚡%20Rafiul%20Islam%20—%20IoT%20%26%20Robotics%20Engineer%20⚡&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving%26color=0:0d1117,40:00d4ff,100:7b2ff7%26height=240%26section=header%26text=Welcome%20to%20My%20Profile!%26fontSize=50%26fontColor=ffffff%26fontAlignY=38%26desc=Rafiul%20Islam%20%7C%20IoT%20%26%20Robotics%20Engineer%26descAlignY=60%26descSize=20%26animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="4px"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Robotics+%26+IoT+Engineer+%F0%9F%A4%96;Embedded+Systems+%7C+Arduino+%7C+ESP32+%7C+Raspberry+Pi;Computer+Vision+%7C+Machine+Learning+%7C+XAI;Full-Stack+Dev+%7C+React+%7C+Flask+%7C+Node.js;Building+where+Code+meets+Circuits+%E2%9A%A1)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+---
 
 <div align="center">
 
 ## 🤖 About Me
 
 </div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```python
 class RoboticEngineer:
@@ -30,36 +32,33 @@ class RoboticEngineer:
         self.role        = "IoT & Robotics Engineer"
         self.university  = "UFT, Bangladesh 🇧🇩"
         self.focus       = [
-            "🦾 Embedded Systems",
-            "📡 IoT Networks",
-            "🧠 AI Automation",
-            "🌐 Full-Stack Dev"
+            "🦾 Embedded Systems (Arduino/ESP32/RPi)",
+            "📡 Smart IoT & Automation",
+            "🧠 Machine Learning & XAI",
+            "👁️ Computer Vision (OpenCV)",
+            "🌐 Full-Stack Web Development",
         ]
-        self.hardware    = [
-            "Arduino", "Raspberry Pi",
-            "ESP32", "Sensors"
-        ]
-        self.currently   = "Bridging Hardware, Software & AI 🚀"
+        self.languages   = ["C", "C++", "Python",
+                            "JavaScript", "Java", "TypeScript"]
+        self.currently   = "Bridging Hardware + Software + AI 🚀"
 
-    def greet(self):
-        return "Code meets circuits here! ⚡"
+    def mission(self):
+        return "Code the mind. Build the body. 🤖⚡"
 
 me = RoboticEngineer()
-print(me.greet())
+print(me.mission())
 ```
 
 </td>
-<td width="45%" valign="center" align="center">
+<td width="45%" align="center" valign="center">
 
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="Circuit Animation"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Robot Circuit Animation"/>
 
-<br/><br/>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rafiul254&label=Profile+Views&color=00d4ff&style=flat-square)
-&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=rafiul254&label=Profile%20Views&color=00d4ff&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/rafiul254?label=Followers&style=flat-square&color=7b2ff7)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/rafiul254?label=Stars&style=flat-square&color=00d4ff)
+![Stars](https://img.shields.io/github/stars/rafiul254?label=Stars&style=flat-square&color=FFD700)
 
 </td>
 </tr>
@@ -67,12 +66,13 @@ print(me.greet())
 
 <div align="center">
 
-<table width="95%">
+<table>
 <tr>
-<td align="center" width="25%">🤖 <b>Robotics</b><br/>Autonomous systems<br/>with AI decisions</td>
-<td align="center" width="25%">📡 <b>IoT</b><br/>Smart sensors &<br/>real-time pipelines</td>
-<td align="center" width="25%">🧠 <b>AI/ML</b><br/>Explainable AI for<br/>embedded platforms</td>
-<td align="center" width="25%">🌐 <b>Web Dev</b><br/>Full-stack from<br/>firmware to dashboard</td>
+<td align="center" width="120">🤖<br/><b>Robotics</b><br/><sub>Autonomous Systems</sub></td>
+<td align="center" width="120">📡<br/><b>IoT</b><br/><sub>Smart Devices</sub></td>
+<td align="center" width="120">🧠<br/><b>AI/ML</b><br/><sub>Explainable AI</sub></td>
+<td align="center" width="120">👁️<br/><b>Vision</b><br/><sub>OpenCV</sub></td>
+<td align="center" width="120">🌐<br/><b>Web Dev</b><br/><sub>Full-Stack</sub></td>
 </tr>
 </table>
 
@@ -80,369 +80,254 @@ print(me.greet())
 
 ---
 
-<!-- ═══════════════════ TECH ARSENAL ═══════════════════ -->
 <div align="center">
 
 ## 🛠️ Tech Arsenal
 
+### 🔩 Hardware & Embedded
+
 </div>
 
 <div align="center">
 
-<!-- Hardware Row -->
-<table>
-<tr><td align="center" colspan="10">
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🔩 Hardware & Embedded Systems
+</div>
 
-</td></tr>
-<tr>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45"/><br/>
-<sub><b>Arduino</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45"/><br/>
-<sub><b>Raspberry Pi</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_electronics.svg/240px-Icons8_flat_electronics.svg.png" width="45" height="45"/><br/>
-<sub><b>ESP32</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://img.shields.io/badge/IR-Sensor-00979D?style=flat-square&logo=arduino&logoColor=white" height="28"/><br/>
-<sub><b>IR Sensors</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://img.shields.io/badge/L298N-Motor_Driver-red?style=flat-square" height="28"/><br/>
-<sub><b>Motor Driver</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" height="28"/><br/>
-<sub><b>CUDA/GPU</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://img.shields.io/badge/Cisco-Networking-049fd9?style=flat-square&logo=cisco&logoColor=white" height="28"/><br/>
-<sub><b>Networking</b></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Languages Row -->
-<table>
-<tr><td align="center" colspan="10">
+<div align="center">
 
 ### 💻 Programming Languages
 
-</td></tr>
-<tr>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/><br/>
-<sub><b>C</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br/>
-<sub><b>C++</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/><br/>
-<sub><b>Python</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/><br/>
-<sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/><br/>
-<sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/><br/>
-<sub><b>Java</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="45" height="45"/><br/>
-<sub><b>Rust</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45"/><br/>
-<sub><b>Go</b></sub>
-</td>
-</tr>
-</table>
+</div>
 
-<br/>
+<div align="center">
 
-<!-- AI/ML Row -->
-<table>
-<tr><td align="center" colspan="10">
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🤖 AI & Machine Learning
+</div>
 
-</td></tr>
-<tr>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/><br/>
-<sub><b>TensorFlow</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/><br/>
-<sub><b>PyTorch</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/><br/>
-<sub><b>Scikit-Learn</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/><br/>
-<sub><b>OpenCV</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/><br/>
-<sub><b>NumPy</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/><br/>
-<sub><b>Pandas</b></sub>
-</td>
-</tr>
-</table>
+<div align="center">
 
-<br/>
+### 🤖 AI, ML & Computer Vision
 
-<!-- Web Row -->
-<table>
-<tr><td align="center" colspan="10">
+</div>
 
-### 🌐 Web & Backend
+<div align="center">
 
-</td></tr>
-<tr>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/><br/>
-<sub><b>React</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/><br/>
-<sub><b>Next.js</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/><br/>
-<sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/><br/>
-<sub><b>FastAPI</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/><br/>
-<sub><b>Flask</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="45" height="45"/><br/>
-<sub><b>Three.js</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45"/><br/>
-<sub><b>Tailwind</b></sub>
-</td>
-</tr>
-</table>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<br/>
+</div>
 
-<!-- Database/Cloud Row -->
-<table>
-<tr><td align="center" colspan="10">
+<div align="center">
 
-### 🗄️ Database & Cloud & Tools
+### 🌐 Web, Backend & Databases
 
-</td></tr>
-<tr>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br/>
-<sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/><br/>
-<sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/><br/>
-<sub><b>Firebase</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/><br/>
-<sub><b>Docker</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/><br/>
-<sub><b>Git</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/><br/>
-<sub><b>Figma</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/><br/>
-<sub><b>GCP</b></sub>
-</td>
-</tr>
-</table>
+</div>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 <div align="center">
 
 ## 🚀 Featured Projects
 
 </div>
 
-<!-- Project 1 + Project 2 -->
+<!-- ROW 1 -->
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-<!-- Card 1: OopsStopper Robot -->
-<div align="center">
+### 🎬 Cinemach AI
+[![Stars](https://img.shields.io/github/stars/rafiul254/Cinemach-Ai?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/Cinemach-Ai)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-FF6F00?style=flat-square&logo=openai&logoColor=white)
 
-### 🔩 OopsStopper Robot v1.0
+AI-powered cinematic experience platform — smart movie recommendations using NLP and collaborative filtering. Combines intelligent search with a sleek UI.
 
-[![Stars](https://img.shields.io/github/stars/rafiul254/OopsStopper-v1.0?style=flat-square&color=FFD700&label=⭐%20Stars)](https://github.com/rafiul254/OopsStopper-v1.0)
-[![Language](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/rafiul254/OopsStopper-v1.0)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://github.com/rafiul254/OopsStopper-v1.0)
+**Features:** Smart recommendations · NLP search · User profiling · Cinematic UI
 
-</div>
+**Stack:** `Python` `Flask` `scikit-learn` `NLP` `HTML/CSS/JS`
 
-**DIY Edge Detection Robot** — An autonomous table safety bot that navigates surfaces without falling off edges using real-time IR sensor input.
-
-**✨ Key Features:**
-- 🔴 Real-time edge detection via IR sensors
-- ⚙️ L298N dual H-bridge motor control
-- 📡 Configurable speed & response timing
-- 🐛 Serial debugging support
-
-**🛠️ Hardware Stack:**
-`Arduino Uno` · `IR Sensor` · `L298N Driver` · `DC Motors` · `7.4V Li-Ion`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/OopsStopper-v1.0)
-![Hardware](https://img.shields.io/badge/Hardware-Project-FF6B35?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/Cinemach-Ai)
 
 </td>
 
 <td width="50%" valign="top">
 
-<!-- Card 2: Portfolio Website -->
-<div align="center">
+### 📸 Snapsage
+[![Stars](https://img.shields.io/github/stars/rafiul254/Snapsage?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/Snapsage)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![AI](https://img.shields.io/badge/Vision-AI-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+AI-powered image processing and analysis tool leveraging computer vision for intelligent image captioning, enhancement, and smart tagging.
+
+**Features:** Smart captioning · Vision AI · Image enhancement · Auto-tagging
+
+**Stack:** `Python` `OpenCV` `TensorFlow` `Flask` `JavaScript`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/Snapsage)
+
+</td>
+
+</tr>
+</table>
+
+<!-- ROW 2 -->
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🌐 Portfolio Website
+[![Stars](https://img.shields.io/github/stars/rafiul254/Portfolio_website?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/Portfolio_website)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Live](https://img.shields.io/badge/Live-Online-00C7B7?style=flat-square&logo=vercel&logoColor=white)
 
-[![Stars](https://img.shields.io/github/stars/rafiul254/Portfolio_website?style=flat-square&color=FFD700&label=⭐%20Stars)](https://github.com/rafiul254/Portfolio_website)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/rafiul254/Portfolio_website)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)](https://github.com/rafiul254/Portfolio_website)
+Personal 3D IoT-themed portfolio with floating Arduino boards, circuit traces and aurora animations built in Three.js. 14 certifications, 7 projects.
 
-</div>
+**Features:** 3D IoT background · Aurora animations · 14 certs · Fully responsive
 
-**3D IoT-Themed Portfolio** — Personal portfolio with floating Arduino boards, circuit traces & aurora animations using Three.js r128.
+**Stack:** `HTML5` `CSS3` `JavaScript` `Three.js r128`
 
-**✨ Key Features:**
-- 🔮 3D IoT background (Arduino, sensors, WiFi rings)
-- 🌌 Aurora blob animations
-- 🎓 14 certifications with lightbox viewer
-- 🚀 7 projects with live demo links
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/Portfolio_website)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://portfolio-website-rafiul.vercel.app)
 
-**🛠️ Tech Stack:**
-`HTML5` · `CSS3` · `JavaScript ES6+` · `Three.js r128`
+</td>
 
-<div align="center">
+<td width="50%" valign="top">
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/Portfolio_website)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Vercel-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-rafiul.vercel.app)
+### 🔩 OopsStopper Robot v1.0
+[![Stars](https://img.shields.io/github/stars/rafiul254/OopsStopper-v1.0?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/OopsStopper-v1.0)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-Robot-FF6B35?style=flat-square)
 
-</div>
+DIY autonomous edge detection robot — navigates elevated surfaces using IR sensors without falling off. Real-time L298N motor control system.
+
+**Features:** Real-time edge detection · Auto direction change · Serial debug · Configurable speed
+
+**Stack:** `C++` `Arduino Uno` `IR Sensor` `L298N Motor Driver` `7.4V Li-Ion`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/OopsStopper-v1.0)
 
 </td>
 
 </tr>
 </table>
 
-<!-- Project 3 + Project 4 -->
+<!-- ROW 3 -->
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-<!-- Card 3: HabitTracker -->
-<div align="center">
-
 ### 📊 HabitTracker App
+[![Stars](https://img.shields.io/github/stars/rafiul254/HabitTracker?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/HabitTracker)
+![Java](https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX%2021-5382a1?style=flat-square&logo=java&logoColor=white)
 
-[![Stars](https://img.shields.io/github/stars/rafiul254/HabitTracker?style=flat-square&color=FFD700&label=⭐%20Stars)](https://github.com/rafiul254/HabitTracker)
-[![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/rafiul254/HabitTracker)
-[![JavaFX](https://img.shields.io/badge/JavaFX-21.0-5382a1?style=flat-square&logo=java&logoColor=white)](https://github.com/rafiul254/HabitTracker)
+Modern desktop habit tracking app with analytics, 6 themes, monthly calendar view, streak system, and smart notifications. MVC architecture.
 
-</div>
+**Features:** Pie/Line analytics · 6 themes · Calendar view · Gamification system
 
-**Modern Desktop Habit App** — Feature-rich JavaFX application with analytics, streak tracking, and 6 beautiful themes.
+**Stack:** `Java 17` `JavaFX 21` `Maven 3.9` `ControlsFX` `MVC`
 
-**✨ Key Features:**
-- 📅 Monthly calendar with color-coded progress
-- 📈 Pie & line chart analytics
-- 🎨 6 themes (Dark, Ocean, Sunset, Forest...)
-- 🔔 Smart notifications & daily reminders
-
-**🛠️ Tech Stack:**
-`Java 17` · `JavaFX 21` · `Maven 3.9` · `ControlsFX` · `CSS3` · `MVC Pattern`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/HabitTracker)
-![Desktop](https://img.shields.io/badge/Desktop-App-5382a1?style=for-the-badge&logo=java&logoColor=white)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/HabitTracker)
 
 </td>
 
 <td width="50%" valign="top">
 
-<!-- Card 4: Movie Recommender -->
-<div align="center">
+### 🎬 ESP32 GIF Player
+[![Stars](https://img.shields.io/github/stars/rafiul254/ESP32-GIF-Player?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/ESP32-GIF-Player)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Demo](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)
 
-### 🎬 Movie Recommendation System
+Fullscreen animated GIF player on ESP32 with ST7735 TFT display. No SD card — GIFs stored in PROGMEM Flash. Auto-cycles 6 Marvel/Anime animations every 8s.
 
-[![Stars](https://img.shields.io/github/stars/rafiul254/Syntecxhub_Project_Movie_Recommendation_system?style=flat-square&color=FFD700&label=⭐%20Stars)](https://github.com/rafiul254/Syntecxhub_Project_Movie_Recommendation_system)
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/rafiul254/Syntecxhub_Project_Movie_Recommendation_system)
-[![ML](https://img.shields.io/badge/ML-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/rafiul254/Syntecxhub_Project_Movie_Recommendation_system)
+**Features:** No SD card needed · Fullscreen 160x128 · Smooth wipe transitions · 6 GIF animations
 
-</div>
+**Stack:** `C` `C++` `ESP32` `PlatformIO` `AnimatedGIF lib` `ST7735 TFT`
 
-**AI-Powered Movie Recommender** — ML-based system that gives personalized movie recommendations using collaborative filtering algorithms.
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/ESP32-GIF-Player)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/jHeiL1j6YvM)
 
-**✨ Key Features:**
-- 🧠 Collaborative & content-based filtering
-- 🎯 Personalized user recommendations
-- 📊 Data analysis with Pandas & NumPy
-- 🔍 Similarity scoring engine
+</td>
 
-**🛠️ Tech Stack:**
-`Python` · `scikit-learn` · `Pandas` · `NumPy` · `Matplotlib`
+</tr>
+</table>
 
-<div align="center">
+<!-- ROW 4 -->
+<table width="100%">
+<tr>
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/Syntecxhub_Project_Movie_Recommendation_system)
-![ML](https://img.shields.io/badge/Machine-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<td width="50%" valign="top">
 
-</div>
+### 🏠 House Price Prediction ML
+[![Stars](https://img.shields.io/github/stars/rafiul254/House-Price-Prediction?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/House-Price-Prediction)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+Machine learning model to predict house prices using regression algorithms. Features data cleaning, EDA, feature engineering, and model comparison.
+
+**Features:** Regression models · Feature engineering · EDA visualizations · Model comparison
+
+**Stack:** `Python` `scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/House-Price-Prediction)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ System Argus AI
+[![Stars](https://img.shields.io/github/stars/rafiul254/System-Argus-AI?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/System-Argus-AI)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Monitoring-7b2ff7?style=flat-square&logo=openai&logoColor=white)
+
+AI-powered system monitoring and security analysis tool. Real-time process monitoring, anomaly detection, and intelligent alerts for system health.
+
+**Features:** Real-time monitoring · Anomaly detection · AI alerts · System health dashboard
+
+**Stack:** `Python` `AI/ML` `Flask` `Linux` `System APIs`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/System-Argus-AI)
 
 </td>
 
@@ -451,55 +336,78 @@ print(me.greet())
 
 <div align="center">
 
-[![View All Projects](https://img.shields.io/badge/🔗_View_All_22+_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafiul254?tab=repositories)
+[![View All Projects](https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafiul254?tab=repositories)
 
 </div>
 
 ---
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 <div align="center">
 
 ## 📊 GitHub Stats
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafiul254&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=ffffff" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul254&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2ff7&fire=00d4ff&currStreakLabel=00d4ff" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rafiul254%26theme=tokyonight%26hide_border=true%26include_all_commits=true%26count_private=true%26show_icons=true%26bg_color=0d1117%26title_color=00d4ff%26icon_color=7b2ff7%26text_color=ffffff" height="170"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul254%26theme=tokyonight%26hide_border=true%26background=0d1117%26stroke=00d4ff%26ring=7b2ff7%26fire=FFD700%26currStreakLabel=00d4ff" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="130" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254%26theme=tokyonight%26hide_border=true%26layout=compact%26bg_color=0d1117%26title_color=00d4ff%26text_color=ffffff" height="130"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254&custom_title=Rafiul%27s%20Contribution%20Graph&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254%26custom_title=Rafiul%27s%20Contribution%20Graph%26bg_color=0d1117%26color=00d4ff%26line=7b2ff7%26point=FFD700%26area=true%26area_color=7b2ff7%26hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
+<div align="center">
+
+## 🏆 Achievements
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rafiul254%26theme=tokyonight%26no-frame=true%26no-bg=true%26margin-w=8%26column=7" width="95%"/>
+
+</div>
+
+<div align="center">
+
+<br/>
+
+| 🎖️ Achievement | 📅 Year | 🏛️ Institution |
+|:---|:---:|:---|
+| Dean's Certificate and Dean's List | 2025 | University of Frontier Technology, Bangladesh |
+| TeamMatrix Elite Hackers: Advanced Cybersecurity | 2024 | TeamMatrix |
+| AWS Academy: Introduction to Cloud | 2023 | AWS Academy |
+| Cisco: Introduction to Cybersecurity | 2024 | Cisco Networking Academy |
+
+</div>
+
+---
+
 <div align="center">
 
 ## 🌐 Connect With Me
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafiul-islam-25sep92004)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-website-rafiul.vercel.app)
-[![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rafiulislam25)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@pintocloud)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1A37R9eh5H/)
-[![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafiul254)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafiul-islam-25sep92004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-website-rafiul.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rafiulislam25)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pintocloud)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1A37R9eh5H/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafuulislam2004@gmail.com)
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d62&height=80&text=%22Code%20is%20the%20language%20of%20machines,%20Robotics%20is%20the%20art%20of%20giving%20them%20a%20soul.%22&fontSize=14&fontColor=00d4ff&fontAlignY=50" width="80%"/>
+> *"Code the mind. Build the body. Connect the world."*
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00d4ff,100:0d1117&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving%26color=0:7b2ff7,50:00d4ff,100:0d1117%26height=130%26section=footer" width="100%"/>
 
 </div>
