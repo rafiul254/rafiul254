@@ -2,15 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving%26color=0:0d1117,40:00d4ff,100:7b2ff7%26height=240%26section=header%26text=Welcome%20to%20My%20Profile!%26fontSize=50%26fontColor=ffffff%26fontAlignY=38%26desc=Rafiul%20Islam%20%7C%20IoT%20%26%20Robotics%20Engineer%26descAlignY=60%26descSize=20%26animation=fadeIn" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Robotics+%26+IoT+Engineer+%F0%9F%A4%96;Embedded+Systems+%7C+Arduino+%7C+ESP32+%7C+Raspberry+Pi;Computer+Vision+%7C+Machine+Learning+%7C+XAI;Full-Stack+Dev+%7C+React+%7C+Flask+%7C+Node.js;Building+where+Code+meets+Circuits+%E2%9A%A1)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code%26size=22%26pause=1000%26color=00D4FF%26center=true%26vCenter=true%26width=750%26lines=IoT+%26+Robotics+Engineer+%F0%9F%A4%96;Embedded+Systems+%7C+Arduino+%7C+ESP32+%7C+RPi;Computer+Vision+%7C+Machine+Learning+%7C+XAI;Full-Stack+Dev+%7C+React+%7C+Flask+%7C+Node.js;Building+where+Code+meets+Circuits+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rafiul254%26label=Profile%20Views%26color=00d4ff%26style=flat-square)
+![Followers](https://img.shields.io/github/followers/rafiul254?label=Followers%26style=flat-square%26color=7b2ff7)
+![Stars](https://img.shields.io/github/stars/rafiul254?label=Stars%26style=flat-square%26color=FFD700)
+
+</div>
 
 ---
 
@@ -22,61 +24,48 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="40%" align="center" valign="center">
 
-```python
-class RoboticEngineer:
-    def __init__(self):
-        self.name        = "Md. Rafiul Islam"
-        self.username    = "rafiul254"
-        self.role        = "IoT & Robotics Engineer"
-        self.university  = "UFT, Bangladesh 🇧🇩"
-        self.focus       = [
-            "🦾 Embedded Systems (Arduino/ESP32/RPi)",
-            "📡 Smart IoT & Automation",
-            "🧠 Machine Learning & XAI",
-            "👁️ Computer Vision (OpenCV)",
-            "🌐 Full-Stack Web Development",
-        ]
-        self.languages   = ["C", "C++", "Python",
-                            "JavaScript", "Java", "TypeScript"]
-        self.currently   = "Bridging Hardware + Software + AI 🚀"
-
-    def mission(self):
-        return "Code the mind. Build the body. 🤖⚡"
-
-me = RoboticEngineer()
-print(me.mission())
-```
-
-</td>
-<td width="45%" align="center" valign="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Robot Circuit Animation"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" alt="Robot Embedded Systems Animation"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rafiul254&label=Profile%20Views&color=00d4ff&style=flat-square)
-![Followers](https://img.shields.io/github/followers/rafiul254?label=Followers&style=flat-square&color=7b2ff7)
-![Stars](https://img.shields.io/github/stars/rafiul254?label=Stars&style=flat-square&color=FFD700)
+> *"Code the mind. Build the body. Connect the world."*
+
+</td>
+<td width="60%" valign="top">
+
+### 👤 Md. Rafiul Islam
+
+🎓 **B.Sc. IoT & Robotics Engineering**
+🏛️ University of Frontier Technology, Bangladesh
+📍 Kushtia, Dhaka, Bangladesh 🇧🇩
+📧 rafuulislam2004@gmail.com
+
+---
+
+**🔭 What I Do:**
+
+- 🦾 Embedded Systems — Arduino, ESP32, Raspberry Pi
+- 📡 Smart IoT Systems — Sensors, Automation, Edge Computing
+- 🧠 AI & Machine Learning — scikit-learn, TensorFlow, XAI
+- 👁️ Computer Vision — OpenCV, Image Processing
+- 🌐 Full-Stack Web Dev — React, Flask, Node.js, MongoDB
+- 🤖 Robotics — Edge Detection, Fire Fighting, LFR Bots
+
+---
+
+**⚡ Currently:**
+
+- 🎓 2nd Year IoT & Robotics student (2024–2028)
+- 💼 ML Intern @ SYNTECXHUB
+- 📌 Intern @ BYSDO Ignite Program Batch-04
+- 🏛️ Social Media Manager @ UFTB AI Community
+- 📸 Photographer @ UFTB Robotics Club
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="120">🤖<br/><b>Robotics</b><br/><sub>Autonomous Systems</sub></td>
-<td align="center" width="120">📡<br/><b>IoT</b><br/><sub>Smart Devices</sub></td>
-<td align="center" width="120">🧠<br/><b>AI/ML</b><br/><sub>Explainable AI</sub></td>
-<td align="center" width="120">👁️<br/><b>Vision</b><br/><sub>OpenCV</sub></td>
-<td align="center" width="120">🌐<br/><b>Web Dev</b><br/><sub>Full-Stack</sub></td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -84,74 +73,57 @@ print(me.mission())
 
 ## 🛠️ Tech Arsenal
 
-### 🔩 Hardware & Embedded
-
 </div>
 
 <div align="center">
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+**🔩 Hardware & Embedded Systems**
 
-</div>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge%26logo=arduino%26logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge%26logo=espressif%26logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge%26logo=raspberry-pi%26logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge%26logo=platformio%26logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge%26logo=linux%26logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge%26logo=windows%26logoColor=white)
 
-<div align="center">
+**💻 Programming Languages**
 
-### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge%26logo=c%26logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge%26logo=cplusplus%26logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge%26logo=python%26logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge%26logo=javascript%26logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge%26logo=typescript%26logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge%26logo=openjdk%26logoColor=white)
 
-</div>
+**🤖 AI, ML & Computer Vision**
 
-<div align="center">
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge%26logo=tensorflow%26logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge%26logo=scikitlearn%26logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge%26logo=opencv%26logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge%26logo=numpy%26logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge%26logo=pandas%26logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge%26logo=powerbi%26logoColor=black)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**🌐 Web, Backend & Databases**
 
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge%26logo=react%26logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge%26logo=nextdotjs%26logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge%26logo=flask%26logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge%26logo=nodedotjs%26logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge%26logo=mongodb%26logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge%26logo=mysql%26logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge%26logo=firebase%26logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge%26logo=threedotjs%26logoColor=white)
 
-<div align="center">
+**🔧 Tools & Platforms**
 
-### 🤖 AI, ML & Computer Vision
-
-</div>
-
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### 🌐 Web, Backend & Databases
-
-</div>
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge%26logo=git%26logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge%26logo=docker%26logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge%26logo=vercel%26logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-052FAD?style=for-the-badge%26logo=ibmwatson%26logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge%26logo=googlecloud%26logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge%26logo=cisco%26logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge%26logo=n8n%26logoColor=white)
 
 </div>
 
@@ -163,180 +135,138 @@ print(me.mission())
 
 </div>
 
-<!-- ROW 1 -->
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-### 🎬 Cinemach AI
-[![Stars](https://img.shields.io/github/stars/rafiul254/Cinemach-Ai?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/Cinemach-Ai)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Powered-FF6F00?style=flat-square&logo=openai&logoColor=white)
+### 🎬 CineMatch AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square%26logo=python%26logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square%26logo=flask%26logoColor=white)
+![ML](https://img.shields.io/badge/ML-Powered-FF6F00?style=flat-square)
 
-AI-powered cinematic experience platform — smart movie recommendations using NLP and collaborative filtering. Combines intelligent search with a sleek UI.
+AI movie recommendation engine with Movie DNA Analysis, Hybrid Scoring (content 65% + Bayesian 28% + popularity 7%), and mood-based discovery.
 
-**Features:** Smart recommendations · NLP search · User profiling · Cinematic UI
+**Stack:** `Python` `Flask` `scikit-learn` `Pandas` `NLP`
 
-**Stack:** `Python` `Flask` `scikit-learn` `NLP` `HTML/CSS/JS`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/Cinemach-Ai)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/Cinemach-Ai)
 
 </td>
-
 <td width="50%" valign="top">
 
-### 📸 Snapsage
-[![Stars](https://img.shields.io/github/stars/rafiul254/Snapsage?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/Snapsage)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![AI](https://img.shields.io/badge/Vision-AI-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+### 📸 SnapSage
+![React](https://img.shields.io/badge/React-20232A?style=flat-square%26logo=react%26logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square%26logo=nodedotjs%26logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square%26logo=mongodb%26logoColor=white)
 
-AI-powered image processing and analysis tool leveraging computer vision for intelligent image captioning, enhancement, and smart tagging.
+AI learning tool — upload a screenshot, write your intent, and AI returns topic name, explanation, key points, and real-world applications. Personal knowledge vault.
 
-**Features:** Smart captioning · Vision AI · Image enhancement · Auto-tagging
+**Stack:** `React 18` `Vite` `Node.js` `Express.js` `MongoDB Atlas`
 
-**Stack:** `Python` `OpenCV` `TensorFlow` `Flask` `JavaScript`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/Snapsage)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/Snapsage)
 
 </td>
-
 </tr>
 </table>
 
-<!-- ROW 2 -->
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Website
-[![Stars](https://img.shields.io/github/stars/rafiul254/Portfolio_website?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/Portfolio_website)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Live](https://img.shields.io/badge/Live-Online-00C7B7?style=flat-square&logo=vercel&logoColor=white)
+### 🌐 3D Portfolio Website
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square%26logo=html5%26logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square%26logo=threedotjs%26logoColor=white)
+![Live](https://img.shields.io/badge/Live-Online-00C7B7?style=flat-square%26logo=vercel%26logoColor=white)
 
-Personal 3D IoT-themed portfolio with floating Arduino boards, circuit traces and aurora animations built in Three.js. 14 certifications, 7 projects.
-
-**Features:** 3D IoT background · Aurora animations · 14 certs · Fully responsive
+3D IoT-themed portfolio with floating Arduino boards, circuit traces, aurora animations. 14 certifications, 7 projects, fully responsive.
 
 **Stack:** `HTML5` `CSS3` `JavaScript` `Three.js r128`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/Portfolio_website)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://portfolio-website-rafiul.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/Portfolio_website)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge%26logo=vercel)](https://portfolio-website-rafiul.vercel.app)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🔩 OopsStopper Robot v1.0
-[![Stars](https://img.shields.io/github/stars/rafiul254/OopsStopper-v1.0?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/OopsStopper-v1.0)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware-Robot-FF6B35?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square%26logo=cplusplus%26logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square%26logo=arduino%26logoColor=white)
 
-DIY autonomous edge detection robot — navigates elevated surfaces using IR sensors without falling off. Real-time L298N motor control system.
+Autonomous edge detection robot. Navigates elevated surfaces using IR sensors. Real-time L298N motor control. No falling off edges!
 
-**Features:** Real-time edge detection · Auto direction change · Serial debug · Configurable speed
+**Stack:** `C++` `Arduino Uno` `IR Sensor` `L298N Motor Driver`
 
-**Stack:** `C++` `Arduino Uno` `IR Sensor` `L298N Motor Driver` `7.4V Li-Ion`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/OopsStopper-v1.0)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/OopsStopper-v1.0)
 
 </td>
-
 </tr>
 </table>
 
-<!-- ROW 3 -->
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
 ### 📊 HabitTracker App
-[![Stars](https://img.shields.io/github/stars/rafiul254/HabitTracker?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/HabitTracker)
-![Java](https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX%2021-5382a1?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square%26logo=openjdk%26logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-5382a1?style=flat-square%26logo=java%26logoColor=white)
 
-Modern desktop habit tracking app with analytics, 6 themes, monthly calendar view, streak system, and smart notifications. MVC architecture.
+Modern desktop habit tracker with analytics, 6 themes, monthly calendar view, streak system, smart notifications. MVC architecture.
 
-**Features:** Pie/Line analytics · 6 themes · Calendar view · Gamification system
+**Stack:** `Java 17` `JavaFX 21` `Maven` `ControlsFX`
 
-**Stack:** `Java 17` `JavaFX 21` `Maven 3.9` `ControlsFX` `MVC`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/HabitTracker)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/HabitTracker)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🎬 ESP32 GIF Player
-[![Stars](https://img.shields.io/github/stars/rafiul254/ESP32-GIF-Player?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/ESP32-GIF-Player)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Demo](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square%26logo=c%26logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square%26logo=espressif%26logoColor=white)
 
-Fullscreen animated GIF player on ESP32 with ST7735 TFT display. No SD card — GIFs stored in PROGMEM Flash. Auto-cycles 6 Marvel/Anime animations every 8s.
+Fullscreen animated GIF player on ESP32 with ST7735 TFT. No SD card — stored in PROGMEM Flash. 6 Marvel/Anime animations auto-cycling every 8s.
 
-**Features:** No SD card needed · Fullscreen 160x128 · Smooth wipe transitions · 6 GIF animations
+**Stack:** `C` `C++` `ESP32` `PlatformIO` `ST7735 TFT`
 
-**Stack:** `C` `C++` `ESP32` `PlatformIO` `AnimatedGIF lib` `ST7735 TFT`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/ESP32-GIF-Player)
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/jHeiL1j6YvM)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/ESP32-GIF-Player)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge%26logo=youtube)](https://youtube.com/shorts/jHeiL1j6YvM)
 
 </td>
-
 </tr>
 </table>
 
-<!-- ROW 4 -->
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-### 🏠 House Price Prediction ML
-[![Stars](https://img.shields.io/github/stars/rafiul254/House-Price-Prediction?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/House-Price-Prediction)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+### 🏠 House Price Prediction
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square%26logo=python%26logoColor=white)
+![ML](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square%26logo=scikitlearn%26logoColor=white)
 
-Machine learning model to predict house prices using regression algorithms. Features data cleaning, EDA, feature engineering, and model comparison.
+ML regression model for house price prediction with EDA, feature engineering, data cleaning, and model comparison.
 
-**Features:** Regression models · Feature engineering · EDA visualizations · Model comparison
+**Stack:** `Python` `scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
-**Stack:** `Python` `scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/House-Price-Prediction)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/House-Price-Prediction)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🛡️ System Argus AI
-[![Stars](https://img.shields.io/github/stars/rafiul254/System-Argus-AI?style=flat-square&color=FFD700&label=Stars)](https://github.com/rafiul254/System-Argus-AI)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Monitoring-7b2ff7?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square%26logo=python%26logoColor=white)
+![AI](https://img.shields.io/badge/AI-Monitoring-7b2ff7?style=flat-square)
 
-AI-powered system monitoring and security analysis tool. Real-time process monitoring, anomaly detection, and intelligent alerts for system health.
+AI-powered server failure prediction with real-time monitoring, anomaly detection, and predictive analytics dashboard.
 
-**Features:** Real-time monitoring · Anomaly detection · AI alerts · System health dashboard
+**Stack:** `Python` `ML` `Flask` `Linux System APIs`
 
-**Stack:** `Python` `AI/ML` `Flask` `Linux` `System APIs`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/rafiul254/System-Argus-AI)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/System-Argus-AI)
 
 </td>
-
 </tr>
 </table>
 
 <div align="center">
 
-[![View All Projects](https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafiul254?tab=repositories)
+[![View All](https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge%26logo=github%26logoColor=white)](https://github.com/rafiul254?tab=repositories)
 
 </div>
 
@@ -350,7 +280,7 @@ AI-powered system monitoring and security analysis tool. Real-time process monit
 
 <img src="https://github-readme-stats.vercel.app/api?username=rafiul254%26theme=tokyonight%26hide_border=true%26include_all_commits=true%26count_private=true%26show_icons=true%26bg_color=0d1117%26title_color=00d4ff%26icon_color=7b2ff7%26text_color=ffffff" height="170"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul254%26theme=tokyonight%26hide_border=true%26background=0d1117%26stroke=00d4ff%26ring=7b2ff7%26fire=FFD700%26currStreakLabel=00d4ff" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=rafiul254%26theme=tokyonight%26hide_border=true%26background=0d1117%26stroke=00d4ff%26ring=7b2ff7%26fire=FFD700%26currStreakLabel=00d4ff" height="170"/>
 
 <br/><br/>
 
@@ -366,24 +296,44 @@ AI-powered system monitoring and security analysis tool. Real-time process monit
 
 <div align="center">
 
-## 🏆 Achievements
-
-<br/>
+## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=rafiul254%26theme=tokyonight%26no-frame=true%26no-bg=true%26margin-w=8%26column=7" width="95%"/>
 
 </div>
 
+---
+
 <div align="center">
 
-<br/>
+## 🎖️ Achievements & Certifications
 
-| 🎖️ Achievement | 📅 Year | 🏛️ Institution |
-|:---|:---:|:---|
-| Dean's Certificate and Dean's List | 2025 | University of Frontier Technology, Bangladesh |
-| TeamMatrix Elite Hackers: Advanced Cybersecurity | 2024 | TeamMatrix |
-| AWS Academy: Introduction to Cloud | 2023 | AWS Academy |
-| Cisco: Introduction to Cybersecurity | 2024 | Cisco Networking Academy |
+</div>
+
+<div align="center">
+
+| 🏅 Achievement | 🏛️ Institution |
+|:---|:---|
+| 🥇 ICT Olympiad Bangladesh S3 — Semi-Final (Engineering) | ICT Olympiad BD |
+| 🏆 International Leadership Competition — National Top 100 | ILC 1.0 |
+| 🎓 ILC Champions Round — Certificate of Achievement | ILC 1.0 |
+| 🧠 Machine Learning Internship | SYNTECXHUB |
+| 🤖 Master AI Voice Agents | Udemy |
+| 💬 Build Your Own Chatbot | IBM Watson |
+| ☁️ Innovating with Google Cloud AI | Simplilearn |
+| 🔒 Certified Cybersecurity Educator (CCEP) | Red Team Leaders |
+| 🐍 Python for Data Science | IBM |
+| 🥉 IoT and Robotics Contest — Third Place | UFTB |
+| 📐 3D Mechanical Design and Modeling | UFTB |
+| 📊 Data Analysis (Excel and Power BI) | Data Solution-360 |
+| 📡 Introduction to IoT | Cisco |
+| 🛡️ Introduction to Data Science | Cisco |
+| 🔌 PCB Designing Workshop | IEEE RAS IUT |
+| 🤖 Prompt Engineering, AI and ML | GP Academy |
+| ⚡ AI Automation | Ostad |
+| 📈 Excel Mastery | GP Academy |
+| ✍️ Essay Competition — Third Place | Islamic Foundation |
+| 📚 Research Training | BARTC |
 
 </div>
 
@@ -395,12 +345,12 @@ AI-powered system monitoring and security analysis tool. Real-time process monit
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafiul-islam-25sep92004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-website-rafiul.vercel.app)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rafiulislam25)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pintocloud)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1A37R9eh5H/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafuulislam2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge%26logo=linkedin%26logoColor=white)](https://www.linkedin.com/in/rafiul-islam-25sep92004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge%26logo=firefox%26logoColor=white)](https://portfolio-website-rafiul.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge%26logo=medium%26logoColor=white)](https://medium.com/@rafiulislam25)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge%26logo=youtube%26logoColor=white)](https://youtube.com/@pintocloud)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge%26logo=facebook%26logoColor=white)](https://www.facebook.com/share/1A37R9eh5H/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge%26logo=gmail%26logoColor=white)](mailto:rafuulislam2004@gmail.com)
 
 <br/>
 
