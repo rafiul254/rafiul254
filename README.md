@@ -1,363 +1,290 @@
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35)
+
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=700&lines=Hi+there%2C+I'm+Md.+Rafiul+Islam+%F0%9F%91%8B;%F0%9F%A4%96+IoT+%26+Robotics+Engineer+%7C+Embedded+Systems;%E2%9A%A1+C%2FC%2B%2B+%7C+Python+%7C+React+%7C+Flask;%F0%9F%9A%80+Building+Smart+Connected+Systems;%F0%9F%94%A5+Bridging+Hardware%2C+Software+%26+AI" alt="Typing SVG" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving%26color=0:0d1117,40:00d4ff,100:7b2ff7%26height=240%26section=header%26text=Welcome%20to%20My%20Profile!%26fontSize=50%26fontColor=ffffff%26fontAlignY=38%26desc=Rafiul%20Islam%20%7C%20IoT%20%26%20Robotics%20Engineer%26descAlignY=60%26descSize=20%26animation=fadeIn" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code%26size=22%26pause=1000%26color=00D4FF%26center=true%26vCenter=true%26width=750%26lines=IoT+%26+Robotics+Engineer+%F0%9F%A4%96;Embedded+Systems+%7C+Arduino+%7C+ESP32+%7C+RPi;Computer+Vision+%7C+Machine+Learning+%7C+XAI;Full-Stack+Dev+%7C+React+%7C+Flask+%7C+Node.js;Building+where+Code+meets+Circuits+%E2%9A%A1)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rafiul254%26label=Profile%20Views%26color=00d4ff%26style=flat-square)
-![Followers](https://img.shields.io/github/followers/rafiul254?label=Followers%26style=flat-square%26color=7b2ff7)
-![Stars](https://img.shields.io/github/stars/rafiul254?label=Stars%26style=flat-square%26color=FFD700)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 </div>
 
 ---
 
 <div align="center">
 
-## 🤖 About Me
+## 🌟 About Me
 
 </div>
 
-<table>
-<tr>
-<td width="40%" align="center" valign="center">
+---
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" alt="Robot Embedded Systems Animation"/>
+<img align="right" alt="IoT Robot Animation" width="320" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 
-<br/>
+## 👨‍💻 About Me
 
-> *"Code the mind. Build the body. Connect the world."*
+- 🎓 **B.Sc. in IoT & Robotics Engineering** — University of Frontier Technology, Bangladesh
+- 💼 **ML Intern** @ SYNTECXHUB(completed) | **Intern** @ BYSDO Ignite Program Batch-04(completed) 
+- 🤖 Passionate about **AI + IoT + Robotics integration**
+- 🧠 Working on **IoT**, **Embedded systems**, **Machine Learning**, **Explainable AI** & **Computer Vision**
+- 📸 Photographer @ UFTB Robotics Club | Social Media manager @ UFTB AI community
 
-</td>
-<td width="60%" valign="top">
-
-### 👤 Md. Rafiul Islam
-
-🎓 **B.Sc. IoT & Robotics Engineering**
-🏛️ University of Frontier Technology, Bangladesh
-📍 Kushtia, Dhaka, Bangladesh 🇧🇩
-📧 rafuulislam2004@gmail.com
+An **IoT & Robotics engineer** with a driving passion for **smart systems**, **automation**, and **AI Engineer**.
 
 ---
 
-**🔭 What I Do:**
+Currently exploring **Embedded C/C++ systems**, **Computer Vision with OpenCV**, **Machine Learning** and **AI Engineering**,
 
-- 🦾 Embedded Systems — Arduino, ESP32, Raspberry Pi
-- 📡 Smart IoT Systems — Sensors, Automation, Edge Computing
-- 🧠 AI & Machine Learning — scikit-learn, TensorFlow, XAI
-- 👁️ Computer Vision — OpenCV, Image Processing
-- 🌐 Full-Stack Web Dev — React, Flask, Node.js, MongoDB
-- 🤖 Robotics — Edge Detection, Fire Fighting, LFR Bots
+## 🚀 Core Expertise
+- 🔌 Embedded Systems (ESP32, Arduino, Raspberry Pi, PCB Design)
+- 🤖 Robotics & Automation (LFR, Fire Fighting, Edge Detection Bots)
+- 🧠 Machine Learning, XAI & AI Voice Agents
+- 👁️ Computer Vision (OpenCV)
+- 🌐 Full-Stack Development (React, Flask, Node.js)
+- 📡 IoT Sensor Integration (IR, Ultrasonic, Flame, Soil, LDR)
 
----
-
-**⚡ Currently:**
-
-- 🎓 2nd Year IoT & Robotics student (2024–2028)
-- 💼 ML Intern @ SYNTECXHUB
-- 📌 Intern @ BYSDO Ignite Program Batch-04
-- 🏛️ Social Media Manager @ UFTB AI Community
-- 📸 Photographer @ UFTB Robotics Club
-
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 ---
 
 <div align="center">
-
-## 🛠️ Tech Arsenal
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20&height=2"/>
 </div>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**🔩 Hardware & Embedded Systems**
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge%26logo=arduino%26logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge%26logo=espressif%26logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge%26logo=raspberry-pi%26logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge%26logo=platformio%26logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge%26logo=linux%26logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge%26logo=windows%26logoColor=white)
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-**💻 Programming Languages**
+### AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-052FAD?style=for-the-badge&logo=ibmwatson&logoColor=white)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge%26logo=c%26logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge%26logo=cplusplus%26logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge%26logo=python%26logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge%26logo=javascript%26logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge%26logo=typescript%26logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge%26logo=openjdk%26logoColor=white)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**🤖 AI, ML & Computer Vision**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge%26logo=tensorflow%26logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge%26logo=scikitlearn%26logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge%26logo=opencv%26logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge%26logo=numpy%26logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge%26logo=pandas%26logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge%26logo=powerbi%26logoColor=black)
-
-**🌐 Web, Backend & Databases**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge%26logo=react%26logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge%26logo=nextdotjs%26logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge%26logo=flask%26logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge%26logo=nodedotjs%26logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge%26logo=mongodb%26logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge%26logo=mysql%26logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge%26logo=firebase%26logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge%26logo=threedotjs%26logoColor=white)
-
-**🔧 Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge%26logo=git%26logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge%26logo=docker%26logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge%26logo=vercel%26logoColor=white)
-![IBM Watson](https://img.shields.io/badge/IBM%20Watson-052FAD?style=for-the-badge%26logo=ibmwatson%26logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge%26logo=googlecloud%26logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge%26logo=cisco%26logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge%26logo=n8n%26logoColor=white)
+### Hardware & OS
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
 
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=2"/>
+</div>
 
 ## 🚀 Featured Projects
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=400&lines=Check+out+my+amazing+projects!;Building+the+future+with+code+%26+circuits!" alt="Projects Typing SVG" />
 </div>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🎬 CineMatch AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square%26logo=python%26logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square%26logo=flask%26logoColor=white)
-![ML](https://img.shields.io/badge/ML-Powered-FF6F00?style=flat-square)
+**AI-powered movie recommendation engine** — Movie DNA Analysis, Hybrid Scoring (content 65% + Bayesian 28% + popularity 7%), mood-based discovery & Cinematic Analytics Dashboard.
 
-AI movie recommendation engine with Movie DNA Analysis, Hybrid Scoring (content 65% + Bayesian 28% + popularity 7%), and mood-based discovery.
-
-**Stack:** `Python` `Flask` `scikit-learn` `Pandas` `NLP`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/Cinemach-Ai)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/rafiul254/Cinemach-Ai)
+[![Live](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Rafi-ul/cinematch-ai)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 📸 SnapSage
-![React](https://img.shields.io/badge/React-20232A?style=flat-square%26logo=react%26logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square%26logo=nodedotjs%26logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square%26logo=mongodb%26logoColor=white)
+**AI screenshot learning tracker** — Upload a screenshot, write your intent, AI returns topic name, explanation, key points & real-world applications. Personal knowledge vault.
 
-AI learning tool — upload a screenshot, write your intent, and AI returns topic name, explanation, key points, and real-world applications. Personal knowledge vault.
-
-**Stack:** `React 18` `Vite` `Node.js` `Express.js` `MongoDB Atlas`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/Snapsage)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/rafiul254/Snapsage)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://snap-sage-ashy.vercel.app/)
 
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🌐 3D Portfolio Website
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square%26logo=html5%26logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square%26logo=threedotjs%26logoColor=white)
-![Live](https://img.shields.io/badge/Live-Online-00C7B7?style=flat-square%26logo=vercel%26logoColor=white)
+**Personal IoT-themed portfolio** — 3D floating Arduino boards, circuit traces, aurora animations built with Three.js r128. 14 certifications, fully responsive.
 
-3D IoT-themed portfolio with floating Arduino boards, circuit traces, aurora animations. 14 certifications, 7 projects, fully responsive.
-
-**Stack:** `HTML5` `CSS3` `JavaScript` `Three.js r128`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/Portfolio_website)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge%26logo=vercel)](https://portfolio-website-rafiul.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/rafiul254/Portfolio_website)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://portfolio-website-rafiul.vercel.app)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🔩 OopsStopper Robot v1.0
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square%26logo=cplusplus%26logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square%26logo=arduino%26logoColor=white)
+**DIY edge detection robot** — Autonomous table safety bot with IR sensors and real-time L298N motor control. Prevents falling off elevated surfaces.
 
-Autonomous edge detection robot. Navigates elevated surfaces using IR sensors. Real-time L298N motor control. No falling off edges!
-
-**Stack:** `C++` `Arduino Uno` `IR Sensor` `L298N Motor Driver`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/OopsStopper-v1.0)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/rafiul254/OopsStopper-v1.0)
+[![Demo](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/E52RMUhqKQ4?si=1vqFae3mr7ajRSZh)
 
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📊 HabitTracker App
-![Java](https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square%26logo=openjdk%26logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-5382a1?style=flat-square%26logo=java%26logoColor=white)
+### 📊 HabitTracker 
+**Modern JavaFX desktop app** — Habit tracking with analytics, 6 themes, monthly calendar, streak system & smart notifications. MVC architecture.
 
-Modern desktop habit tracker with analytics, 6 themes, monthly calendar view, streak system, smart notifications. MVC architecture.
-
-**Stack:** `Java 17` `JavaFX 21` `Maven` `ControlsFX`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/HabitTracker)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/rafiul254/HabitTracker)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🎬 ESP32 GIF Player
-![C](https://img.shields.io/badge/C-00599C?style=flat-square%26logo=c%26logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square%26logo=espressif%26logoColor=white)
+**Fullscreen GIF player on ESP32** — Animated GIFs on ST7735 TFT, stored in PROGMEM Flash (no SD card). 6 Marvel/Anime animations auto-cycling every 8s.
 
-Fullscreen animated GIF player on ESP32 with ST7735 TFT. No SD card — stored in PROGMEM Flash. 6 Marvel/Anime animations auto-cycling every 8s.
-
-**Stack:** `C` `C++` `ESP32` `PlatformIO` `ST7735 TFT`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/ESP32-GIF-Player)
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge%26logo=youtube)](https://youtube.com/shorts/jHeiL1j6YvM)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/rafiul254/ESP32-GIF-Player)
+[![Demo](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/jHeiL1j6YvM)
 
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🏠 House Price Prediction
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square%26logo=python%26logoColor=white)
-![ML](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square%26logo=scikitlearn%26logoColor=white)
-
-ML regression model for house price prediction with EDA, feature engineering, data cleaning, and model comparison.
-
-**Stack:** `Python` `scikit-learn` `Pandas` `NumPy` `Matplotlib`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/House-Price-Prediction)
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" align="center">
 
 ### 🛡️ System Argus AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square%26logo=python%26logoColor=white)
-![AI](https://img.shields.io/badge/AI-Monitoring-7b2ff7?style=flat-square)
+**AI-powered server failure prediction** — Real-time monitoring, anomaly detection & predictive analytics dashboard.
 
-AI-powered server failure prediction with real-time monitoring, anomaly detection, and predictive analytics dashboard.
-
-**Stack:** `Python` `ML` `Flask` `Linux System APIs`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge%26logo=github)](https://github.com/rafiul254/System-Argus-AI)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/rafiul254/System-Argus-AI)
+[![Demo](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/KJxn4bfKvMA?si=tCHKFCotYkbVVAVa)
 
 </td>
 </tr>
 </table>
 
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11&height=2"/>
+</div>
+
+## 📊 GitHub Stats & Analytics
+
 <div align="center">
 
-[![View All](https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge%26logo=github%26logoColor=white)](https://github.com/rafiul254?tab=repositories)
+![Rafiul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiul254&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=a8b2d1&custom_title=Rafiul's%20GitHub%20Stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rafiul254&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
 
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=a8b2d1" width="60%" />
+</div>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254&theme=react-dark&hide_border=true&bg_color=0D1117" width="98%" />
+</div>
 
-<br/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafiul254%26theme=tokyonight%26hide_border=true%26include_all_commits=true%26count_private=true%26show_icons=true%26bg_color=0d1117%26title_color=00d4ff%26icon_color=7b2ff7%26text_color=ffffff" height="170"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=rafiul254%26theme=tokyonight%26hide_border=true%26background=0d1117%26stroke=00d4ff%26ring=7b2ff7%26fire=FFD700%26currStreakLabel=00d4ff" height="170"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,20,6&height=2"/>
+</div>
 
-<br/><br/>
+## 🏆 Achievements & Certifications
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254%26theme=tokyonight%26hide_border=true%26layout=compact%26bg_color=0d1117%26title_color=00d4ff%26text_color=ffffff" height="130"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254%26custom_title=Rafiul%27s%20Contribution%20Graph%26bg_color=0d1117%26color=00d4ff%26line=7b2ff7%26point=FFD700%26area=true%26area_color=7b2ff7%26hide_border=true" width="95%"/>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&width=700&lines=%F0%9F%8F%85+ICT+Olympiad+Bangladesh+%E2%80%94+Semi-Final+Round;%F0%9F%8F%86+ILC+National+Top+100+Winner;%F0%9F%8E%93+Dean's+Certificate+%26+Dean's+List;%F0%9F%A4%96+IoT+%26+Robotics+Contest+Third+Place" alt="Achievements Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=rafiul254%26theme=tokyonight%26no-frame=true%26no-bg=true%26margin-w=8%26column=7" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎖️ Achievements & Certifications
-
-</div>
-
-<div align="center">
-
-| 🏅 Achievement | 🏛️ Institution |
+| 🏅 **Achievement** | 🏢 **Institution** |
 |:---|:---|
 | 🥇 ICT Olympiad Bangladesh S3 — Semi-Final (Engineering) | ICT Olympiad BD |
 | 🏆 International Leadership Competition — National Top 100 | ILC 1.0 |
 | 🎓 ILC Champions Round — Certificate of Achievement | ILC 1.0 |
-| 🧠 Machine Learning Internship | SYNTECXHUB |
+| 🧠 Machine Learning Internship | SYNTECXHUB | 
 | 🤖 Master AI Voice Agents | Udemy |
 | 💬 Build Your Own Chatbot | IBM Watson |
 | ☁️ Innovating with Google Cloud AI | Simplilearn |
-| 🔒 Certified Cybersecurity Educator (CCEP) | Red Team Leaders |
+| 🔐 Certified Cybersecurity Educator (CCEP) | Red Team Leaders |
 | 🐍 Python for Data Science | IBM |
-| 🥉 IoT and Robotics Contest — Third Place | UFTB |
-| 📐 3D Mechanical Design and Modeling | UFTB |
-| 📊 Data Analysis (Excel and Power BI) | Data Solution-360 |
+| 🥉 IoT & Robotics Contest — Third Place | UFTB |
+| 📐 3D Mechanical Design & Modeling | UFTB |
+| 📊 Data Analysis (Excel & Power BI) | Data Solution-360 |
 | 📡 Introduction to IoT | Cisco |
 | 🛡️ Introduction to Data Science | Cisco |
 | 🔌 PCB Designing Workshop | IEEE RAS IUT |
-| 🤖 Prompt Engineering, AI and ML | GP Academy |
+| 🤖 Prompt Engineering, AI & ML | GP Academy |
 | ⚡ AI Automation | Ostad |
 | 📈 Excel Mastery | GP Academy |
-| ✍️ Essay Competition — Third Place | Islamic Foundation |
 | 📚 Research Training | BARTC |
+| ✍️ Essay Competition — Third Place | Islamic Foundation |
 
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=2"/>
+</div>
 
 ## 🌐 Connect With Me
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4ECDC4&width=500&lines=Let's+connect+and+collaborate!;Always+open+to+new+opportunities!+%F0%9F%9A%80" alt="Connect Typing SVG" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafiul-islam-25sep92004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-website-rafiul.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rafiulislam25)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pintocloud)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1A37R9eh5H/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafuulislam2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafiul254)
+
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge%26logo=linkedin%26logoColor=white)](https://www.linkedin.com/in/rafiul-islam-25sep92004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge%26logo=firefox%26logoColor=white)](https://portfolio-website-rafiul.vercel.app)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge%26logo=medium%26logoColor=white)](https://medium.com/@rafiulislam25)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge%26logo=youtube%26logoColor=white)](https://youtube.com/@pintocloud)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge%26logo=facebook%26logoColor=white)](https://www.facebook.com/share/1A37R9eh5H/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge%26logo=gmail%26logoColor=white)](mailto:rafuulislam2004@gmail.com)
+### 💭 Quote
+*"Code the mind. Build the circuit. Connect the world."*
 
 <br/>
 
-> *"Code the mind. Build the body. Connect the world."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving%26color=0:7b2ff7,50:00d4ff,100:0d1117%26height=130%26section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=rafiul254&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=400&lines=Thanks+for+visiting+my+profile!;Happy+coding+%26+building!+%F0%9F%9A%80" alt="Thanks Typing SVG" />
+</div>
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
