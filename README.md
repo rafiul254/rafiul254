@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md.%20Rafiul%20Islam&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=IoT%20%26%20Robotics%20Engineer%20%7C%20AI%20Builder%20%7C%20Embedded%20Systems&descSize=18&descAlignY=58&descColor=a8d8ff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Md.%20Rafiul%20Islam&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=IoT%20%26%20Robotics%20Engineer%20%7C%20AI%20Builder%20%7C%20Embedded%20Systems&descSize=18&descAlignY=58&descColor=a8d8ff)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=🤖+IoT+%26+Robotics+Engineer+@+UFTB;⚡+Embedded+C%2FC%2B%2B+%7C+Python+%7C+React+%7C+Flask;🧠+ML+%7C+Computer+Vision+%7C+AI+Agents;🚀+Building+Smart+Connected+Systems;🔥+Bridging+Hardware%2C+Software+%26+AI" alt="Typing SVG" />
 
@@ -236,21 +236,25 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats & Analytics
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rafiul254&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=a8b2d1&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=rafiul254&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=a8b2d1&langs_count=10" width="50%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F&area=true" width="98%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=rafiul254&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=a8b2d1" width="48%"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=rafiul254&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" width="48%"/>
+</div>
+---
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=a8b2d1" width="60%"/>
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" width="98%"/>
+</div>
+---
+ 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,20,6&height=2"/>
 </div>
 
 ---
