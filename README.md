@@ -31,17 +31,17 @@
 Name     : Md. Rafiul Islam
 Role     : IoT & Robotics Engineer | AI Builder
 Degree   : B.Sc. IoT & Robotics Engineering
-Uni      : University of Frontier Technology, BD
+Uni      : University of Frontier Technology, Bangladesh.
 Location : Bangladesh
-Focus    : Embedded Systems · ML · Computer Vision
+Focus    : IoT . Embedded Systems · AI · Computer Vision
 Motto    : "Code the mind. Build the circuit. Connect the world."
 ```
 
 - 🎓 Studying **IoT & Robotics Engineering** @ UFTB, Bangladesh
-- 💼 **ML Intern** @ SyntecXHub | **Intern** @ BYSDO Ignite Batch-04
+- 💼 **ML Intern** @ FlyRank AI
 - 🤖 Passionate about **AI + IoT + Robotics** integration
 - 🧠 Exploring **Embedded C/C++**, **Computer Vision**, **Explainable AI**
-- 📸 Photographer @ UFTB Robotics Club | SM Manager @ UFTB AI Community
+- 📸 Photographer @ UFTB Robotics Club | S0cial Media Manager @ UFTB AI Community
 - 🏆 ICT Olympiad BD Semi-Finalist | ILC National Top 100 Winner
 
 <br clear="both"/>
