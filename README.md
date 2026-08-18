@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:8B0000,70:B8860B,100:FFD700&height=320&section=header&text=Md.%20Rafiul%20Islam&fontSize=58&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=⚡%20IoT%20Engineer%20·%20AI%20Builder%20·%20Circuit%20Architect%20⚡&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:8B0000,70:B8860B,100:FFD700&height=320&section=header&text=Md.%20Rafiul%20Islam&fontSize=58&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=⚡%20IoT%20Engineer%20·%20AI%20Builder%20·%20Circuit%20Architect%20.%20ML & DL%20Integration%20⚡&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
 
 <div align="center">
 
@@ -26,14 +26,15 @@
 
 ```yaml
 ╔═══════════════════════════════════════════════╗
-║      CLASSIFIED — S.H.I.E.L.D. DATABASE      ║
+║      CLASSIFIED — S.H.I.E.L.D. DATABASE       ║
 ╠═══════════════════════════════════════════════╣
 ║  Name     : Md. Rafiul Islam                  ║
 ║  Alias    : "IRON CODE"  ⚡                   ║
-║  Role     : IoT & Robotics Engineer · AI Builder         ║
+║  Role     : IoT & Robotics Engineer · AI Builder║
 ║  Degree   : B.Sc. in IoT & Robotics Eng.        ║
-║  Base     : UFTB, Bangladesh 🇧🇩               ║
-║  Status   : ✅ Active — ML Intern @ FlyRank & technopreneurship @ Gigalogy  ║
+║  Base     : UFTB, Bangladesh 🇧🇩                 ║
+║  Status   : ✅ Active — ML Intern @ FlyRank
+              & technopreneurship @ Gigalogy      ║
 ║  Focus    : AI · IoT · CV · Robotics . Embedded Systems  ║
 ║  Threat   : ⚡ GENIUS LEVEL — CONFIRMED       ║
 ╚═══════════════════════════════════════════════╝
@@ -332,35 +333,26 @@
 <tr>
 <td colspan="2" align="center">
 
-### 🖥️ System Argus AI
-**AI-powered server failure prediction & real-time monitoring**
-
-Real-time anomaly detection · Predictive analytics dashboard · Automated alerting system
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/rafiul254/System-Argus-AI)
-[![Demo](https://img.shields.io/badge/YouTube_Demo-FF0000?style=flat-square&logo=youtube)](https://youtu.be/KJxn4bfKvMA)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 JARVIS Analytics — GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafiul254&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=E50914&text_color=a8b2d1&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=a8b2d1&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafiul254&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=a8b2d1&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=a8b2d1&langs_count=8"/>
 
 </div>
 
 <div align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=rafiul254&theme=radical&hide_border=true&background=0D1117&stroke=E50914&ring=FFD700&fire=E50914&currStreakLabel=FFD700&sideLabels=a8b2d1&dates=a8b2d1"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=rafiul254&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866&sideLabels=a8b2d1&dates=a8b2d1"/>
+
 </div>
 
 <div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=E50914&point=FFD700&area=true&area_color=E50914"/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F&area=true&area_color=F85D7F"/>
+
 </div>
 
 ---
