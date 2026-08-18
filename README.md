@@ -1,181 +1,95 @@
 <div align="center">
 
-<img src="./assets/hero.gif" width="100%" alt="Animated IoT and Robotics banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/>
 
-<h1>Md. Rafiul Islam</h1>
+</div>
 
-<h3>IoT & Robotics Engineering Undergraduate · Backend & AI Builder</h3>
-
-<p>
-  <a href="https://portfolio-website-rafiul.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/rafiul-islam-25sep92004">LinkedIn</a> ·
-  <a href="https://youtube.com/@pintocloud">YouTube</a> ·
-  <a href="https://medium.com/@rafiulislam25">Medium</a> ·
-  <a href="https://github.com/rafiul254">GitHub</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=rafiul254&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" alt="Profile views"/>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Rafiul+👋;IoT+%26+Robotics+Engineer+🤖;AI+Builder+%7C+Circuit+Architect+⚡;Building+Smart+Connected+Systems+🌐" alt="Typing SVG" />
 </div>
 
 <br/>
 
-## 👋 About Me
+<div align="center">
+  <a href="https://portfolio-website-rafiul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rafiul-islam-25sep92004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@pintocloud"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://medium.com/@rafiulislam25"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:rafuulislam2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
-I'm **Md. Rafiul Islam**, an **IoT & Robotics Engineering undergraduate** who enjoys building systems where **hardware, software, backend services, and AI** work together.
-
-My focus is not only on making a prototype work. I also care about the engineering behind it: **clean architecture, scalable APIs, reliable data flow, maintainable code, and useful user experiences**.
-
-### What I enjoy building
-
-- 🔌 **IoT & Robotics** — ESP32, Arduino, sensors, RFID, GPS, automation and embedded systems
-- ⚙️ **Backend Engineering** — REST APIs, modular services, database-driven applications and clean architecture
-- 🧠 **AI / ML / Computer Vision** — practical machine learning, image processing and AI-powered applications
-- 💻 **Problem Solving** — competitive programming, algorithms and core programming fundamentals
-- 🎬 **Creative Work** — video editing, photography, books and travelling
-
-> **My direction:** connect the physical world to intelligent software — from sensor to API, from API to data, and from data to decisions.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafiul254&color=00d4ff&style=flat-square&label=Profile+Views" alt="profile views"/>
+</div>
 
 ---
 
-<div align="center">
-<img src="./assets/iot-pulse.gif" width="90%" alt="Animated IoT pulse"/>
-</div>
+## 🙋‍♂️ About Me
+
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+I'm **Rafiul** — a 2nd-year **IoT & Robotics Engineering** student from Bangladesh 🇧🇩, currently interning as an **ML Engineer at FlyRank AI**. I love building things that sit at the intersection of hardware and intelligence — whether it's a sensor network, an AI-powered app, or a robot that actually does something useful.
+
+When I'm not wiring up circuits or training models, you'll find me 📸 behind a camera, ✍️ writing on Medium, or 📚 deep in a good book.
+
+```yaml
+Name      : Md. Rafiul Islam
+Degree    : B.Sc. IoT & Robotics Engineering @ UFTB
+Role      : ML Intern @ FlyRank AI
+Focus     : Embedded Systems · AI · Computer Vision · IoT
+Community : Social Media Manager @ UFTB AI Community
+           Photographer @ UFTB Robotics Club
+Hobbies   : Travel ✈️  |  Books 📚  |  Video Editing 🎬
+```
+
+<br clear="both"/>
+
+---
+
+## 🔭 What I'm Working On
+
+<img align="left" width="230" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 
 <br/>
 
-## 🧩 Engineering Focus
+- 🌡️ **TrachGuard** — Smart respiratory monitor with ESP32 + ML risk classification
+- 🤖 **AI Banglish Keyboard** — Banglish → Bangla converter with Groq + Llama
+- 🌱 **Grow & Bloom** — Hand gesture CV app using MediaPipe
+- ✍️ Writing technical articles on **AI, IoT, and Robotics** on Medium
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-<h3>🔌 IoT & Robotics</h3>
-
-Embedded systems<br/>
-Sensors & actuators<br/>
-ESP32 / Arduino<br/>
-RFID / GPS / Serial<br/>
-Automation & control
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>⚙️ Backend Engineering</h3>
-
-REST APIs<br/>
-Scalable services<br/>
-Clean architecture<br/>
-Database design<br/>
-Real-time systems
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>🧠 AI & Data</h3>
-
-Machine Learning<br/>
-Computer Vision<br/>
-Data analysis<br/>
-LLM integration<br/>
-Intelligent automation
-
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Competitive Programming
-
-<p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Competitive%20Programming-111827?style=for-the-badge&logo=codeforces&logoColor=FACC15"/>
-</p>
-
-### ⚙️ Backend, APIs & Architecture
-
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-85EA2D?style=for-the-badge&logo=swagger&logoColor=111827"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-0F766E?style=for-the-badge&logo=dependabot&logoColor=white"/>
-</p>
-
-### 🌐 Frontend
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### 🤖 AI / ML / Computer Vision
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827"/>
-<img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge&logoColor=22C55E"/>
-</p>
-
-### 🔌 Embedded, IoT & Robotics
-
-<p align="center">
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PlatformIO-F58220?style=for-the-badge&logo=platformio&logoColor=white"/>
-<img src="https://img.shields.io/badge/RFID-0F766E?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/GPS-0F766E?style=for-the-badge&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-<div align="center">
-<img src="./assets/terminal.gif" width="90%" alt="Animated engineering terminal"/>
-</div>
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rafiul254&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B1220&title_color=22C55E&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,kotlin,html,css&theme=dark" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=22C55E&text_color=CBD5E1" />
+### ⚙️ Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,arduino,threejs,figma&theme=dark" />
 
-<br/><br/>
+### 🧠 AI / ML / Vision
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" />
 
-<img width="80%" src="https://streak-stats.demolab.com?user=rafiul254&hide_border=true&background=0B1220&ring=22C55E&fire=F59E0B&currStreakLabel=22C55E&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM_Watson-052FAD?style=flat-square&logo=ibmwatson&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-00A67E?style=flat-square&logoColor=white)
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,supabase&theme=dark" />
+
+### 🔧 Hardware & Embedded
+<img src="https://skillicons.dev/icons?i=raspberrypi,linux,git,vscode&theme=dark" />
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ATmega32](https://img.shields.io/badge/ATmega32-2C4E80?style=flat-square&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white)
 
 </div>
 
@@ -185,56 +99,96 @@ Intelligent automation
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=FFD700&center=true&vCenter=true&width=700&lines=Real+achievements.+Real+impact.+🚀" />
 
-<img src="./assets/ict_olympiad.jpg" width="92%" alt="ICT Olympiad Bangladesh"/>
+</div>
 
-<h3>🏅 ICT Olympiad Bangladesh</h3>
-<p><b>Engineering Track · National Semi-Finalist</b></p>
+<br/>
 
-</td>
-<td width="50%" align="center">
-
-<img src="./assets/ilc_award.jpg" width="92%" alt="ILC National Top 100"/>
-
-<h3>🏆 ILC 1.0</h3>
-<p><b>National Top 100 Winner</b></p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-<img src="./assets/robofusion.jpg" width="92%" alt="RoboFusion 1.0"/>
-
-<h3>🤖 RoboFusion 1.0</h3>
-<p><b>Multi-Hazard Smart Campus Safety System</b></p>
-
-</td>
-<td width="50%" align="center">
-
-<img src="./assets/Gigalogy_Technopreneurship.jpg" width="92%" alt="Gigalogy Technopreneurship"/>
-
-<h3>🚀 Gigalogy Technopreneurship</h3>
-<p><b>Batch 2 · AI & Startup Building</b></p>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-<img src="./assets/iot_contest.jpg" width="68%" alt="IoT and Robotics Contest"/>
-
-<h3>🥉 IoT & Robotics Contest — 3rd Place</h3>
-<p><b>University of Frontier Technology Bangladesh</b></p>
-
-</td>
-</tr>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="48%">
+      <img
+        src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/ict_olympiad.jpg"
+        width="340"
+        style="border-radius:12px;"
+        alt="ICT Olympiad Bangladesh"
+      />
+      <br/><br/>
+      <b>🏅 ICT Olympiad Bangladesh</b><br/>
+      <sub>Engineering Track · National Semi-Finalist</sub>
+    </td>
+    <td align="center" width="48%">
+      <img
+        src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/ilc_award.jpg"
+        width="340"
+        style="border-radius:12px;"
+        alt="ILC National Top 100"
+      />
+      <br/><br/>
+      <b>🏆 ILC 1.0 — National Top 100</b><br/>
+      <sub>International Leadership Competition</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="48%">
+      <img
+        src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/robofusion.jpg"
+        width="340"
+        style="border-radius:12px;"
+        alt="RoboFusion 1.0 Techathon"
+      />
+      <br/><br/>
+      <b>🤖 RoboFusion 1.0 Techathon</b><br/>
+      <sub>Multi-Hazard Zone System · IoT Project</sub>
+    </td>
+    <td align="center" width="48%">
+      <img
+        src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/nascenia_hackathon.jpg"
+        width="340"
+        style="border-radius:12px;"
+        alt="Nascenia AI Hackathon"
+      />
+      <br/><br/>
+      <b>🧠 Nascenia AI Hackathon</b><br/>
+      <sub>Bengali Medical Dialogue · QLoRA Fine-Tuning</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot_contest.jpg"
+        width="520"
+        style="border-radius:12px;"
+        alt="IoT Contest 3rd Place"
+      />
+      <br/><br/>
+      <b>🥉 IoT & Robotics Contest — 3rd Place</b><br/>
+      <sub>University of Frontier Technology Bangladesh</sub>
+    </td>
+  </tr>
 </table>
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🏅 | Achievement | Issuer |
+|:---:|:---|:---|
+| 🥇 | ICT Olympiad Bangladesh — Semi-Final (Engineering) | ICT Olympiad BD |
+| 🏆 | International Leadership Competition — National Top 100 | ILC 1.0 |
+| 🧠 | Machine Learning Internship | SyntecXHub |
+| 🤖 | Master AI Voice Agents | Udemy |
+| ☁️ | Innovating with Google Cloud AI | Simplilearn |
+| 🔐 | Certified Cybersecurity Educator (CCEP) | Red Team Leaders |
+| 🐍 | Python for Data Science | IBM |
+| 💬 | Build Your Own Chatbot | IBM Watson |
+| 🥉 | IoT & Robotics Contest — 3rd Place | UFTB |
+| 📡 | Introduction to IoT | Cisco |
+| 🔌 | PCB Designing Workshop | IEEE RAS IUT |
+| 📚 | Research Training | BARTC |
 
 </div>
 
@@ -242,132 +196,115 @@ Intelligent automation
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<br/>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ RoboFusion 1.0</h3>
+### 🎬 CineMatch AI
+> AI-powered movie recommendation engine
 
-<b>Multi-Hazard Smart Campus Safety System</b>
+- 🧬 Movie DNA Analysis + deep feature fingerprinting
+- ⚖️ Hybrid: Content 65% + Bayesian 28% + Popularity 7%
+- 🎭 Mood-based discovery & Analytics Dashboard
 
-<p>
-A connected safety platform combining IoT sensing, backend services,
-database storage and a real-time dashboard.
-</p>
-
-<b>Stack:</b> ESP32 · Node.js · Express · TypeScript · SQLite · React
-
-<br/><br/>
-
-<a href="https://github.com/rafiul254">
-<img src="https://img.shields.io/badge/PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafiul254/Cinemach-Ai)
+[![Live](https://img.shields.io/badge/Live-FF9D00?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Rafi-ul/cinematch-ai)
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>⌨️ AI Banglish Keyboard</h3>
+### 📸 SnapSage
+> AI screenshot learning tracker
 
-<b>Banglish → বাংলা / English AI Converter</b>
+- 📤 Upload screenshot → AI extracts topic automatically
+- 💡 Explanation, key points & real-world use cases
+- 🗂️ Personal knowledge vault with organized history
 
-<p>
-An AI-assisted text conversion tool focused on practical language processing
-and cross-platform use.
-</p>
-
-<b>Stack:</b> Python · Kotlin · Groq API · Llama
-
-<br/><br/>
-
-<a href="https://github.com/rafiul254">
-<img src="https://img.shields.io/badge/PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafiul254/Snapsage)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://snap-sage-ashy.vercel.app/)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎬 CineMatch AI</h3>
+### ⌨️ AI Banglish Keyboard
+> Banglish-to-Bangla AI Converter
 
-<b>AI Movie Recommendation Engine</b>
+- 🤖 Groq API + Llama — real-time conversion
+- 🖥️ Python Desktop App + Android/Kotlin
+- ⚡ Sub-second intelligent transliteration
 
-<p>
-A recommendation system combining content-based features, Bayesian signals,
-popularity and analytics for personalized discovery.
-</p>
-
-<b>Stack:</b> Python · scikit-learn · Hugging Face
-
-<br/><br/>
-
-<a href="https://github.com/rafiul254/Cinemach-Ai">
-<img src="https://img.shields.io/badge/CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://huggingface.co/spaces/Rafi-ul/cinematch-ai">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafiul254)
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>🌱 Grow & Bloom</h3>
+### 🌱 Grow & Bloom
+> Hand-gesture powered CV web app
 
-<b>Hand-Gesture Computer Vision App</b>
+- 🖐️ MediaPipe real-time hand gesture recognition
+- 🌐 Pure JavaScript — no backend required
+- 🎮 Interactive gesture-based plant navigation
 
-<p>
-An interactive web experience using real-time hand gesture recognition
-for visual interaction.
-</p>
-
-<b>Stack:</b> JavaScript · OpenCV · MediaPipe
-
-<br/><br/>
-
-<a href="https://rafiul254.github.io/Grow-and-Bloom/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-0F766E?style=for-the-badge&logo=githubpages&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafiul254)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔐 RFID Access Control</h3>
+### 🛡️ TrachGuard
+> Smart respiratory health monitoring system
 
-<b>IoT Security & Monitoring System</b>
+- 🌡️ ESP32 + SHT31 / DHT21 / MQ-135 sensors
+- 🤖 ML-based air quality risk classification
+- 📊 Real-time environmental analytics dashboard
 
-<p>
-An RFID-based access-control concept connecting embedded hardware,
-authentication, Firebase and a web dashboard.
-</p>
-
-<b>Stack:</b> ESP32 · RFID · Firebase · React
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafiul254)
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>🔩 OopsStopper Robot</h3>
+### 🔩 OopsStopper Robot v1.0
+> Autonomous edge-detection safety robot
 
-<b>Autonomous Edge-Detection Safety Robot</b>
+- 📡 IR sensor array for real-time edge detection
+- ⚙️ L298N motor driver with dynamic speed control
+- 🔧 Custom C++ firmware from scratch
 
-<p>
-A compact robot using an IR sensor array and motor control to detect edges
-and prevent falls.
-</p>
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafiul254/OopsStopper-v1.0)
+[![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/shorts/E52RMUhqKQ4)
 
-<b>Stack:</b> Arduino · C++ · IR Sensors · L298N
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+### 🌐 3D IoT Portfolio
+> IoT-themed personal portfolio website
 
-<a href="https://youtube.com/shorts/E52RMUhqKQ4">
-<img src="https://img.shields.io/badge/DEMO-DC2626?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+- 🎡 3D floating Arduino boards — Three.js r128
+- 🌌 Aurora animations & glassmorphism UI
+- ⚡ Pure HTML/CSS/JS — no framework
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafiul254/Portfolio_website)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-website-rafiul.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ System Argus AI
+> AI-powered server failure prediction
+
+- ⚡ Real-time anomaly detection
+- 📊 Predictive analytics dashboard
+- 🔔 Automated alerting system
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafiul254/System-Argus-AI)
+[![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/KJxn4bfKvMA)
 
 </td>
 </tr>
@@ -375,88 +312,68 @@ and prevent falls.
 
 ---
 
-## 🏗️ How I Think About Systems
+## 📊 GitHub Stats
 
 <div align="center">
 
-```text
-┌──────────────┐
-│    Sensors   │
-│ ESP32 / MCU  │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ Embedded App │
-│ Control Logic│
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ APIs / Data  │
-│ REST / MQTT  │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ Backend      │
-│ Services     │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ AI / ML / CV │
-│ Intelligence │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ Product / UI │
-│ Web / Mobile │
-└──────────────┘
-```
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafiul254&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=a8b2d1&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=a8b2d1&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://streak-stats.demolab.com?user=rafiul254&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF"/>
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rafiul254&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
 ---
 
-## 🌍 Beyond Engineering
-
-I like keeping engineering connected to the real world.
-
-- ✈️ **Travel** — discovering new places and perspectives
-- 📚 **Books** — learning outside the syllabus
-- 🎬 **Video Editing** — turning raw footage into stories
-- 📷 **Photography** — documenting moments
-- 🧩 **Problem Solving** — competitive programming and algorithmic thinking
-
----
-
-## 🔗 Quick Links
+## 🌍 Beyond the Code
 
 <div align="center">
 
-<a href="https://portfolio-website-rafiul.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-0F766E?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/rafiul-islam-25sep92004">
-<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://youtube.com/@pintocloud">
-<img src="https://img.shields.io/badge/YOUTUBE-DC2626?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<a href="mailto:rafuulislam2004@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-16A34A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+| ✈️ Travel | 📚 Books | 🎬 Video Editing |
+|:---:|:---:|:---:|
+| Exploring new places keeps me curious and grounded | Always halfway through a book I can't put down | Shot & edited content for UFTB Robotics Club |
 
-<br/><br/>
+</div>
 
-<img src="./assets/hero.gif" width="85%" alt="IoT engineering animation"/>
+---
 
-<h3>⚡ Build · Connect · Automate · Learn</h3>
+## 🤝 Let's Connect
 
-<p>
-<b>IoT & Robotics Engineer in progress — building systems that connect the physical world with intelligent software.</b>
-</p>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Always+open+to+collaboration+%26+cool+projects!;Let's+build+something+awesome+together+🚀" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafiul-islam-25sep92004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio-website-rafiul.vercel.app)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pintocloud)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rafiulislam25)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafuulislam2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafiul254)
+
+<br/>
+
+> *"Code the mind. Build the circuit. Connect the world."*
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
