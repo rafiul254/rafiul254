@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:8B0000,70:B8860B,100:FFD700&height=320&section=header&text=Md.%20Rafiul%20Islam&fontSize=58&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=⚡%20IoT%20Engineer%20·%20AI%20Builder%20·%20Circuit%20Architect%20.%20ML & DL%20Integration%20⚡&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:8B0000,70:B8860B,100:FFD700&height=320&section=header&text=Md.%20Rafiul%20Islam&fontSize=58&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=⚡%20IoT%20Engineer%20·%20AI%20Builder%20·%20Circuit%20Architect%20.%20ML%20Integration%20⚡&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
 
 <div align="center">
 
