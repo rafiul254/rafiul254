@@ -106,8 +106,8 @@
         style="border-radius:14px; border:3px solid #AA00FF;"
         alt="Nascenia AI Hackathon"
       /><br/><br/>
-      <b>🧠 Nascenia AI Hackathon</b><br/>
-      <sub>Bengali Medical Dialogue · QLoRA Fine-Tuning</sub>
+      <b> Gigalogy Technopreneurship </b><br/>
+      <sub> Batch 2 · Complete national level tech startup </sub>
     </td>
   </tr>
   <tr>
