@@ -1,19 +1,7 @@
-
-
 <div align="center">
 
 <!-- PROFILE IMAGE FIRST (top of README) -->
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/Profile.png" width="200" alt="Rafiul Islam"/>
-
-<br/><br/>
-
-<!-- Magical portal banner (Doctor Strange sling-ring portal effect) -->
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/portal-banner.png" width="500" alt="Portal Banner"/>
-
-<br/><br/>
-
-<!-- Animated IoT robotics boot -->
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot-pulse.gif" width="240" alt="IoT Robotics Boot"/>
 
 <br/><br/>
 
@@ -53,7 +41,7 @@
 </td>
 <td width="78%" valign="top">
 
-Assalamu Alaikum, I'm Rafiul Islam — an IoT & Robotics Engineering undergrad at the University of Frontier Technology, Bangladesh (UFTB), and a builder at heart.
+Assalamu Alaikum, I'm Rafiul Islam — an IoT & Robotics Engineering undergrad at the University of Frontier Technology, Bangladesh (UFTB), and a 
 
 🔭 Currently building AI-powered IoT systems that fuse YOLOv8 computer vision with ESP32 hardware for real-world deployments
 🎓 B.Sc. in IoT & Robotics Engineering from University of Frontier Technology, Bangladesh
@@ -396,7 +384,7 @@ scikit-learn
 "Whatever comes next — I'm ready." 🕸️
 <br/>
 
-<sub><i>Crafted with ⚡ ESP32 · 🧠 YOLOv8 · 🌀 Doctor Strange · 🕹️ Spider-sense</i></sub>
-<br/><sub>© <b>Rafiul Islam</b> · Bangladesh 🇧🇩</sub>
+<sub><i>Crafted with 🌀 Doctor Strange · 🕹️ Spider-sense</i></sub>
+<br/><sub>© <b>Rafiul Islam</b> </sub>
 
 </div>
