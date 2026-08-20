@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- PROFILE IMAGE FIRST (top of README) -->
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/Profile.png" width="800" alt="Rafiul Islam"/>
 
 <br/><br/>
 
-<!-- Typing subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=2600&amp;pause=600&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=70&amp;lines=Hi%2C+I%27m+Rafiul+Islam+%F0%9F%91%8B;IoT+%26+Robotics+Engineer+%7C+AI%2FML+Explorer;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Sensor+Fusion;YOLOv8+%7C+scikit-learn+%7C+XGBoost+%7C+Flask;%22With+great+power+comes+great+responsibility%22+%F0%9F%95%B7%EF%B8%8F" alt="Typing Subtitle"/>
 
 <br/>
 
-<!-- Social buttons -->
+
 <a href="https://linkedin.com/in/rafiul-islam-25sep92004"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
 <a href="https://portfolio-website-rafiul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="Portfolio"/></a>
 <a href="https://youtube.com/@pintocloud"><img src="https://img.shields.io/badge/@PinToCloud-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube"/></a>
@@ -19,7 +17,7 @@
 
 <br/><br/>
 
-<!-- Profile views + followers -->
+
 <img src="https://komarev.com/ghpvc/?username=rafiul254&amp;color=00D9FF&amp;style=for-the-badge&amp;label=Profile+Views" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/rafiul254?label=Followers&amp;style=for-the-badge&amp;color=0F3460&amp;logo=githubsponsors&amp;logoColor=white" alt="Followers"/>
 
@@ -43,10 +41,9 @@
 </td>
 <td width="78%" valign="top">
 
-Assalamu Alaikum, I'm <strong>Rafiul Islam</strong> — an IoT &amp; Robotics Engineering undergrad at the University of Frontier Technology, Bangladesh (UFTB), and a
+Assalamu Alaikum, I'm <strong>Rafiul Islam</strong> — an IoT &amp; Robotics Engineering undergrad at the University of Frontier Technology, Bangladesh (UFTB)
 
 <br/><br/>
-
 🔭 Currently building AI-powered IoT systems that fuse YOLOv8 computer vision with ESP32 hardware for real-world deployments<br/>
 🎓 B.Sc. in IoT &amp; Robotics Engineering from University of Frontier Technology, Bangladesh<br/>
 🌱 Exploring edge AI, sensor fusion, and clean embedded architecture<br/>
@@ -277,7 +274,7 @@ Assalamu Alaikum, I'm <strong>Rafiul Islam</strong> — an IoT &amp; Robotics En
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/robofusion.jpg" width="100%" alt="RoboFusion"/>
 <br/>
 <strong>🤖 RoboFusion 1.0</strong><br/>
-<sub>Techathon robotics competition</sub>
+<sub>Techathon segment competition</sub>
 </td>
 <td width="33%" align="center" valign="middle">
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/Gigalogy_Technopreneurship.jpg" width="100%" alt="Gigalogy"/>
@@ -301,7 +298,7 @@ Assalamu Alaikum, I'm <strong>Rafiul Islam</strong> — an IoT &amp; Robotics En
 | | Achievement | Organization |
 |:---:|:---|:---|
 | 🥇 | ICT Olympiad Bangladesh — Semi-Final (Engineering Track) | ICT Olympiad BD |
-| 🏆 | ILC 1.0 — National Top 100 Winner | ILC |
+| 🏆 | IoT Internship | Decodelabs |
 | 🥉 | IoT & Robotics Contest — 3rd Place | UFTB |
 | 🧠 | ML Engineering Internship | SyntecXHub |
 | 🤖 | Master AI Voice Agents | Udemy |
@@ -336,21 +333,21 @@ Assalamu Alaikum, I'm <strong>Rafiul Islam</strong> — an IoT &amp; Robotics En
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot-pulse.gif" width="200" alt="Travel"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot-pulse.gif" width="300" alt="Travel"/>
 <br/><br/>
 <strong>✈️ Travel</strong>
 <br/><br/>
 <sub>New cities, new circuits. Every trip is a firmware update for the brain — different cultures, different hardware, different ways of solving the same human problems.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/spder%20man.gif" width="200" alt="Books"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/spder%20man.gif" width="300" alt="Books"/>
 <br/><br/>
 <strong>📚 Books</strong>
 <br/><br/>
 <sub>Currently reading across sci-fi, systems-thinking, and embedded-engineering deep-dives. A good book is just a model someone trained for years and distilled into ink.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/hero.gif" width="200" alt="New Tech"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/hero.gif" width="300" alt="New Tech"/>
 <br/><br/>
 <strong>🔬 New Tech</strong>
 <br/><br/>
@@ -390,7 +387,8 @@ Assalamu Alaikum, I'm <strong>Rafiul Islam</strong> — an IoT &amp; Robotics En
 <div align="center">
 
 <br/>
-
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/spder%20man.gif" width="400"
 <em>"Whatever comes next — I'm ready." 🕸️</em>
 
 <br/><br/>
