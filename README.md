@@ -27,12 +27,14 @@
 
 <br/>
 
-👨‍💻 About Me
+---
+
+## 👨‍💻 About Me
+
 <table>
 <tr>
 <td width="22%" valign="middle" align="center">
 
-<!-- Doctor Strange mascot — left side, asymmetric layout -->
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/doctor-strange.png" width="200" alt="Doctor Strange"/>
 
 <br/>
@@ -41,26 +43,33 @@
 </td>
 <td width="78%" valign="top">
 
-Assalamu Alaikum, I'm Rafiul Islam — an IoT & Robotics Engineering undergrad at the University of Frontier Technology, Bangladesh (UFTB), and a 
+Assalamu Alaikum, I'm <strong>Rafiul Islam</strong> — an IoT &amp; Robotics Engineering undergrad at the University of Frontier Technology, Bangladesh (UFTB), and a
 
-🔭 Currently building AI-powered IoT systems that fuse YOLOv8 computer vision with ESP32 hardware for real-world deployments
-🎓 B.Sc. in IoT & Robotics Engineering from University of Frontier Technology, Bangladesh
-🌱 Exploring edge AI, sensor fusion, and clean embedded architecture
-🤖 Robotics enthusiast — autonomous bots, motor control, IR/GPS/RFID sensor stacks
-🧠 ML practitioner — YOLOv8, scikit-learn, XGBoost, recommenders, fraud detection
-⚔️ Sharpening problem-solving on LeetCode (competitive programming)
-✈️ Beyond code: travel, books, and chasing the next framework that promises 10× speed
-💡 Belief: "Hardware is just physics that hasn't been abstracted yet."
-📍 Based in Bangladesh 🇧🇩 — open to internships & collaborations
+<br/><br/>
+
+🔭 Currently building AI-powered IoT systems that fuse YOLOv8 computer vision with ESP32 hardware for real-world deployments<br/>
+🎓 B.Sc. in IoT &amp; Robotics Engineering from University of Frontier Technology, Bangladesh<br/>
+🌱 Exploring edge AI, sensor fusion, and clean embedded architecture<br/>
+🤖 Robotics enthusiast — autonomous bots, motor control, IR/GPS/RFID sensor stacks<br/>
+🧠 ML practitioner — YOLOv8, scikit-learn, XGBoost, recommenders, fraud detection<br/>
+⚔️ Sharpening problem-solving on LeetCode (competitive programming)<br/>
+✈️ Beyond code: travel, books, and chasing the next framework that promises 10× speed<br/>
+💡 Belief: "Hardware is just physics that hasn't been abstracted yet."<br/>
+📍 Based in Bangladesh 🇧🇩 — open to internships &amp; collaborations<br/>
 ⚡ Fun fact: I treat every project like Peter Parker treats New York — show up, ship a fix, leave the codebase cleaner than I found it
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-🛠️ Tech Stack
-🧠 Languages
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 Languages
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++"/>
@@ -72,7 +81,8 @@ Assalamu Alaikum, I'm Rafiul Islam — an IoT & Robotics Engineering undergrad a
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL"/>
 </p>
 
-🤖 AI / ML
+### 🤖 AI / ML
+
 <p>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow"/>
@@ -84,7 +94,8 @@ Assalamu Alaikum, I'm Rafiul Islam — an IoT & Robotics Engineering undergrad a
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
 </p>
 
-🔌 IoT &amp; Hardware
+### 🔌 IoT & Hardware
+
 <p>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="ESP32"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="Arduino"/>
@@ -96,7 +107,8 @@ Assalamu Alaikum, I'm Rafiul Islam — an IoT & Robotics Engineering undergrad a
 <img src="https://img.shields.io/badge/TFT-ST7735-9C27B0?style=for-the-badge&amp;logo=adafruit&amp;logoColor=white" alt="TFT"/>
 </p>
 
-🌐 Web, Backend &amp; Infra
+### 🌐 Web, Backend & Infra
+
 <p>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React"/>
@@ -117,27 +129,28 @@ Assalamu Alaikum, I'm Rafiul Islam — an IoT & Robotics Engineering undergrad a
 
 <br/>
 
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiul254&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=FFD700&text_color=c9d1d9&bg_color=0D1117&border_radius=12" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul254&theme=transparent&hide_border=true&stroke=00D9FF&ring=FFD700&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8B949E&background=0D1117" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiul254&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=00D9FF&amp;icon_color=FFD700&amp;text_color=c9d1d9&amp;bg_color=0D1117&amp;border_radius=12" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul254&amp;theme=transparent&amp;hide_border=true&amp;stroke=00D9FF&amp;ring=FFD700&amp;fire=FF6B6B&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=c9d1d9&amp;sideLabels=c9d1d9&amp;dates=8B949E&amp;background=0D1117" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0D1117&border_radius=12&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=00D9FF&amp;text_color=c9d1d9&amp;bg_color=0D1117&amp;border_radius=12&amp;langs_count=8" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafiul254&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafiul254&amp;theme=github_dark" alt="Profile Summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254&bg_color=0D1117&color=00D9FF&line=FFD700&point=FF6B6B&area=true&hide_border=true&radius=12" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254&amp;bg_color=0D1117&amp;color=00D9FF&amp;line=FFD700&amp;point=FF6B6B&amp;area=true&amp;hide_border=true&amp;radius=12" alt="Activity Graph"/>
 </p>
 
-<br>
+<br/>
 
 ---
 
@@ -146,170 +159,137 @@ Assalamu Alaikum, I'm Rafiul Islam — an IoT & Robotics Engineering undergrad a
 <p align="center"><em>Hand-picked from pinned + recent ML / IoT / Robotics work</em></p>
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 [ClassPulse](https://github.com/rafiul254/ClassPulse)
-**IoT + ML · Real-time Classroom Attention Monitoring**
-
-YOLOv8 Pose estimates per-student engagement (attentive / distracted / sleeping / phone-use) and feeds live alerts to a Flask dashboard + ESP32 RGB-LED & buzzer on the teacher's desk over MQTT.
-
+<h3>🤖 <a href="https://github.com/rafiul254/ClassPulse">ClassPulse</a></h3>
+<strong>IoT + ML · Real-time Classroom Attention Monitoring</strong>
+<p>YOLOv8 Pose estimates per-student engagement (attentive / distracted / sleeping / phone-use) and feeds live alerts to a Flask dashboard + ESP32 RGB-LED &amp; buzzer on the teacher's desk over MQTT.</p>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/YOLOv8-111F68?logo=yolo&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white&amp;style=flat-square" alt="Python"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?logo=yolo&amp;logoColor=white&amp;style=flat-square" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/Flask-000?logo=flask&amp;logoColor=white&amp;style=flat-square" alt="Flask"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&amp;logoColor=white&amp;style=flat-square" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&amp;logoColor=white&amp;style=flat-square" alt="MQTT"/>
 </p>
 
----
+<hr/>
 
-### 🛡️ [MotoSentinel](https://github.com/rafiul254/MotoSentinel_A-Bike-Security-System)
-**IoT Security · Multi-Layer Bike Protection**
-
-ESP32 with RFID auth, GPS tracking, vibration sensing, engine immobilizer relay, TFT status display, and WiFi/Telegram alerts. v2.0 added remote lock/unlock via 7 Telegram bot commands + deep-sleep for 10× battery life.
-
+<h3>🛡️ <a href="https://github.com/rafiul254/MotoSentinel_A-Bike-Security-System">MotoSentinel</a></h3>
+<strong>IoT Security · Multi-Layer Bike Protection</strong>
+<p>ESP32 with RFID auth, GPS tracking, vibration sensing, engine immobilizer relay, TFT status display, and WiFi/Telegram alerts. v2.0 added remote lock/unlock via 7 Telegram bot commands + deep-sleep for 10× battery life.</p>
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/RFID-00979D?logo=arduino&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/GPS-1A73E8?logo=googlemaps&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&amp;logoColor=white&amp;style=flat-square" alt="C++"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&amp;logoColor=white&amp;style=flat-square" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/RFID-00979D?logo=arduino&amp;logoColor=white&amp;style=flat-square" alt="RFID"/>
+  <img src="https://img.shields.io/badge/GPS-1A73E8?logo=googlemaps&amp;logoColor=white&amp;style=flat-square" alt="GPS"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&amp;logoColor=white&amp;style=flat-square" alt="Telegram"/>
 </p>
 
----
+<hr/>
 
-### 🎬 [CineMatch AI](https://github.com/rafiul254/CineMatch_AI)
-**ML Recommender · Production-Grade Movie Engine**
-
-TF-IDF + cosine similarity + a custom hybrid scoring formula (65% content + 28% Bayesian rating + 7% popularity), deployed as a Netflix-style Flask app with EDA analytics dashboard and Docker.
-
+<h3>🎬 <a href="https://github.com/rafiul254/CineMatch_AI">CineMatch AI</a></h3>
+<strong>ML Recommender · Production-Grade Movie Engine</strong>
+<p>TF-IDF + cosine similarity + a custom hybrid scoring formula (65% content + 28% Bayesian rating + 7% popularity), deployed as a Netflix-style Flask app with EDA analytics dashboard and Docker.</p>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white&amp;style=flat-square" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000?logo=flask&amp;logoColor=white&amp;style=flat-square" alt="Flask"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&amp;logoColor=white&amp;style=flat-square" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&amp;logoColor=white&amp;style=flat-square" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&amp;logoColor=white&amp;style=flat-square" alt="Chart.js"/>
 </p>
 
-### 💳 [FraudSense](https://github.com/rafiul254/FraudSense)
-**ML · Credit-Card Fraud Detection**
+</td>
+<td width="50%" valign="top">
 
-Tackles the 0.172%-fraud class-imbalance problem with SMOTE + Random Forest + XGBoost, evaluated on Precision/Recall/F1/ROC-AUC instead of misleading accuracy. Ships a dark-themed Flask app for real-time predictions.
-
+<h3>💳 <a href="https://github.com/rafiul254/FraudSense">FraudSense</a></h3>
+<strong>ML · Credit-Card Fraud Detection</strong>
+<p>Tackles the 0.172%-fraud class-imbalance problem with SMOTE + Random Forest + XGBoost, evaluated on Precision/Recall/F1/ROC-AUC instead of misleading accuracy. Ships a dark-themed Flask app for real-time predictions.</p>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/XGBoost-EB5B2E?logo=xgboost&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/SMOTE-8B5CF6?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white&amp;style=flat-square" alt="Python"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&amp;logoColor=white&amp;style=flat-square" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-EB5B2E?logo=xgboost&amp;logoColor=white&amp;style=flat-square" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/SMOTE-8B5CF6?logo=python&amp;logoColor=white&amp;style=flat-square" alt="SMOTE"/>
+  <img src="https://img.shields.io/badge/Flask-000?logo=flask&amp;logoColor=white&amp;style=flat-square" alt="Flask"/>
 </p>
 
----
+<hr/>
 
-### 🦾 [OopsStopper v1.0](https://github.com/rafiul254/OopsStopper-v1.0)
-**Robotics · Edge Detection Bot**
-
-Autonomous Arduino Uno + IR sensor + L298N motor driver + 4WD chassis. Navigates elevated surfaces and refuses to drive off the edge — built for robotics education and table-safety demos. ▶ Demo
-
+<h3>🦾 <a href="https://github.com/rafiul254/OopsStopper-v1.0">OopsStopper v1.0</a></h3>
+<strong>Robotics · Edge Detection Bot</strong>
+<p>Autonomous Arduino Uno + IR sensor + L298N motor driver + 4WD chassis. Navigates elevated surfaces and refuses to drive off the edge — built for robotics education and table-safety demos.</p>
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/L298N-FFD700?logo=arduino&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/PlatformIO-F5822A?logo=platformio&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&amp;logoColor=white&amp;style=flat-square" alt="C++"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&amp;logoColor=white&amp;style=flat-square" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/L298N-FFD700?logo=arduino&amp;logoColor=black&amp;style=flat-square" alt="L298N"/>
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?logo=platformio&amp;logoColor=white&amp;style=flat-square" alt="PlatformIO"/>
 </p>
 
----
+<hr/>
 
-### ✋ [AirControl Pro](https://github.com/rafiul254/AirControl-Pro)
-**AI · Computer Vision · Gesture Controller**
-
-No mouse, no keyboard — just gestures + voice + face auth + emotion detection. MediaPipe Hands, scikit-learn gesture classifier, OpenCV face recognition, and PyAutoGUI actuation.
-
+<h3>✋ <a href="https://github.com/rafiul254/AirControl-Pro">AirControl Pro</a></h3>
+<strong>AI · Computer Vision · Gesture Controller</strong>
+<p>No mouse, no keyboard — just gestures + voice + face auth + emotion detection. MediaPipe Hands, scikit-learn gesture classifier, OpenCV face recognition, and PyAutoGUI actuation.</p>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/MediaPipe-0099A8?logo=google&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white&amp;style=flat-square" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&amp;logoColor=white&amp;style=flat-square" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0099A8?logo=google&amp;logoColor=white&amp;style=flat-square" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&amp;logoColor=white&amp;style=flat-square" alt="scikit-learn"/>
 </p>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <p align="center">
   <sub>And 34+ more repos — <a href="https://github.com/rafiul254?tab=repositories">explore them all 🗂️</a></sub>
 </p>
 
-<br>
+<br/>
 
 ---
 
+## 🏆 Honors & Accomplishments
 
-🏆 Honors & Accomplishments
 <table>
 <tr>
 <td width="33%" align="center" valign="middle">
-
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot_contest.jpg" width="100%" alt="IoT Contest"/>
-
 <br/>
-<strong>🥇 IoT Contest</strong>
-<br/>
+<strong>🥇 IoT Contest</strong><br/>
 <sub>Smart-systems hackathon winner</sub>
-
 </td>
 <td width="33%" align="center" valign="middle">
-
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/ict_olympiad.jpg" width="100%" alt="ICT Olympiad"/>
-
 <br/>
-<strong>🎯 ICT Olympiad</strong>
-<br/>
+<strong>🎯 ICT Olympiad</strong><br/>
 <sub>National-level qualifier</sub>
-
 </td>
 <td width="33%" align="center" valign="middle">
-
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/ilc_award.jpg" width="100%" alt="ILC Award"/>
-
 <br/>
-<strong>🎖️ ILC Award</strong>
-<br/>
+<strong>🎖️ ILC Award</strong><br/>
 <sub>Leadership recognition</sub>
-
 </td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="middle">
-
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/robofusion.jpg" width="100%" alt="RoboFusion"/>
-
 <br/>
-<strong>🤖 RoboFusion 1.0</strong>
-<br/>
+<strong>🤖 RoboFusion 1.0</strong><br/>
 <sub>Techathon robotics competition</sub>
-
 </td>
 <td width="33%" align="center" valign="middle">
-
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/Gigalogy_Technopreneurship.jpg" width="100%" alt="Gigalogy"/>
-
 <br/>
-<strong>💼 Gigalogy Technopreneurship</strong>
-<br/>
+<strong>💼 Gigalogy Technopreneurship</strong><br/>
 <sub>Tech entrepreneurship program</sub>
-
 </td>
 <td width="33%" align="center" valign="middle">
-
 <img src="https://raw.githubusercontent.com/rafiul254/Portfolio_website/main/assets/cert-IEEE%20pcb%20design.jpeg" width="100%" alt="IEEE PCB"/>
-
 <br/>
-<strong>🔌 IEEE PCB Design</strong>
-<br/>
+<strong>🔌 IEEE PCB Design</strong><br/>
 <sub>Hardware design certification</sub>
-
 </td>
 </tr>
 </table>
@@ -338,7 +318,10 @@ No mouse, no keyboard — just gestures + voice + face auth + emotion detection.
 
 <br/>
 
-🌍 Beyond the Code
+---
+
+## 🌍 Beyond the Code
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/spider-man-pointing.png" width="420" alt="Spider-Man Pointing"/>
@@ -353,41 +336,35 @@ No mouse, no keyboard — just gestures + voice + face auth + emotion detection.
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot-pulse.gif" width="200" alt="Travel"/>
-
 <br/><br/>
 <strong>✈️ Travel</strong>
 <br/><br/>
 <sub>New cities, new circuits. Every trip is a firmware update for the brain — different cultures, different hardware, different ways of solving the same human problems.</sub>
-
 </td>
 <td width="33%" align="center" valign="top">
-
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot-pulse.gif" width="200" alt="Books"/>
-
 <br/><br/>
 <strong>📚 Books</strong>
 <br/><br/>
 <sub>Currently reading across sci-fi, systems-thinking, and embedded-engineering deep-dives. A good book is just a model someone trained for years and distilled into ink.</sub>
-
 </td>
 <td width="33%" align="center" valign="top">
-
 <img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/hero.gif" width="200" alt="New Tech"/>
-
 <br/><br/>
 <strong>🔬 New Tech</strong>
 <br/><br/>
 <sub>Always poking at the next thing — fresh ML architectures, n8n workflows, edge-AI runtimes, a new microcontroller. If it ships value, I'll wire it up and break it before bedtime.</sub>
-
 </td>
 </tr>
 </table>
 
 <br/>
 
-🤝 Connect With Me
+---
+
+## 🤝 Connect With Me
+
 <div align="center">
 
 <a href="https://linkedin.com/in/rafiul-islam-25sep92004"><img src="https://img.shields.io/badge/LinkedIn-Let%27s%20talk-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
@@ -408,14 +385,16 @@ No mouse, no keyboard — just gestures + voice + face auth + emotion detection.
 
 <br/>
 
+---
+
+<div align="center">
+
+<br/>
+
+<em>"Whatever comes next — I'm ready." 🕸️</em>
 
 <br/><br/>
 
-"Whatever comes next — I'm ready." 🕸️
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=100&amp;section=footer" alt="Footer"/>
 
 </div>
