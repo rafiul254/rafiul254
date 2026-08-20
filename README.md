@@ -35,7 +35,7 @@
 <tr>
 <td width="22%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/doctor-strange.png" width="200" alt="Doctor Strange"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/dr%20stranger.gif" width="200" alt="Doctor Strange"/>
 
 <br/>
 <sub><i>"I am the master<br/>of the Mystic Arts."</i></sub>
@@ -324,7 +324,7 @@ Assalamu Alaikum, I'm <strong>Rafiul Islam</strong> — an IoT &amp; Robotics En
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/spider-man-pointing.png" width="420" alt="Spider-Man Pointing"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/3%20spider%20man.gif" width="420" alt="Spider-Man Pointing"/>
 
 <br/>
 <sub><i>"Same energy. Same passion. Always building, always shipping." 🕸️</i></sub>
@@ -343,7 +343,7 @@ Assalamu Alaikum, I'm <strong>Rafiul Islam</strong> — an IoT &amp; Robotics En
 <sub>New cities, new circuits. Every trip is a firmware update for the brain — different cultures, different hardware, different ways of solving the same human problems.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot-pulse.gif" width="200" alt="Books"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/spder%20man.gif" width="200" alt="Books"/>
 <br/><br/>
 <strong>📚 Books</strong>
 <br/><br/>
