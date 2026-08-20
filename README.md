@@ -340,14 +340,14 @@ Assalamu Alaikum, I'm <strong>Rafiul Islam</strong> — an IoT &amp; Robotics En
 <sub>New cities, new circuits. Every trip is a firmware update for the brain — different cultures, different hardware, different ways of solving the same human problems.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/spder%20man.gif" width="300" alt="Books"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/hero.gif" width="300" alt="Books"/>
 <br/><br/>
 <strong>📚 Books</strong>
 <br/><br/>
 <sub>Currently reading across sci-fi, systems-thinking, and embedded-engineering deep-dives. A good book is just a model someone trained for years and distilled into ink.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/hero.gif" width="300" alt="New Tech"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot-pulse.gif" width="300" alt="New Tech"/>
 <br/><br/>
 <strong>🔬 New Tech</strong>
 <br/><br/>
