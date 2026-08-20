@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- PROFILE IMAGE FIRST (top of README) -->
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/Profile.png" width="200" alt="Rafiul Islam"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/Profile.png" width="800" alt="Rafiul Islam"/>
 
 <br/><br/>
 
@@ -33,7 +33,7 @@
 <td width="22%" valign="middle" align="center">
 
 <!-- Doctor Strange mascot — left side, asymmetric layout -->
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/doctor-strange.png" width="180" alt="Doctor Strange"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/doctor-strange.png" width="200" alt="Doctor Strange"/>
 
 <br/>
 <sub><i>"I am the master<br/>of the Mystic Arts."</i></sub>
@@ -117,120 +117,134 @@ Assalamu Alaikum, I'm Rafiul Islam — an IoT & Robotics Engineering undergrad a
 
 <br/>
 
-📊 GitHub Stats
-<div align="center">
 
-GitHub Stats
+## 📊 GitHub Analytics
 
-Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiul254&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=FFD700&text_color=c9d1d9&bg_color=0D1117&border_radius=12" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul254&theme=transparent&hide_border=true&stroke=00D9FF&ring=FFD700&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8B949E&background=0D1117" height="165" alt="GitHub Streak" />
+</p>
 
-Streak Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul254&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0D1117&border_radius=12&langs_count=8" height="165" alt="Top Languages" />
+</p>
 
-Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafiul254&theme=github_dark" alt="Profile Summary" />
+</p>
 
-Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiul254&bg_color=0D1117&color=00D9FF&line=FFD700&point=FF6B6B&area=true&hide_border=true&radius=12" alt="Activity Graph" />
+</p>
 
-</div>
+<br>
 
-<br/>
+---
 
-🚀 Featured Projects
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Featured Projects
 
-🤖 ClassPulse
-Real-time classroom attention monitoring
+<p align="center"><em>Hand-picked from pinned + recent ML / IoT / Robotics work</em></p>
 
-YOLOv8 Pose estimates per-student engagement (attentive / distracted / sleeping / phone-use) and feeds live alerts to a Flask dashboard + ESP32 RGB-LED &amp; buzzer on the teacher's desk over MQTT.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
-Python
-YOLOv8
-Flask
-ESP32
-MQTT
+### 🤖 [ClassPulse](https://github.com/rafiul254/ClassPulse)
+**IoT + ML · Real-time Classroom Attention Monitoring**
 
-</td>
-<td width="50%" valign="top">
+YOLOv8 Pose estimates per-student engagement (attentive / distracted / sleeping / phone-use) and feeds live alerts to a Flask dashboard + ESP32 RGB-LED & buzzer on the teacher's desk over MQTT.
 
-🛡️ MotoSentinel
-Multi-layer bike security system
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?logo=yolo&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+### 🛡️ [MotoSentinel](https://github.com/rafiul254/MotoSentinel_A-Bike-Security-System)
+**IoT Security · Multi-Layer Bike Protection**
 
 ESP32 with RFID auth, GPS tracking, vibration sensing, engine immobilizer relay, TFT status display, and WiFi/Telegram alerts. v2.0 added remote lock/unlock via 7 Telegram bot commands + deep-sleep for 10× battery life.
 
-C++
-ESP32
-RFID
-GPS
-Telegram
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/RFID-00979D?logo=arduino&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/GPS-1A73E8?logo=googlemaps&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-🎬 CineMatch AI
-Movie recommendation engine
+### 🎬 [CineMatch AI](https://github.com/rafiul254/CineMatch_AI)
+**ML Recommender · Production-Grade Movie Engine**
 
 TF-IDF + cosine similarity + a custom hybrid scoring formula (65% content + 28% Bayesian rating + 7% popularity), deployed as a Netflix-style Flask app with EDA analytics dashboard and Docker.
 
-Python
-Flask
-scikit-learn
-Docker
-Chart.js
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat-square" />
+</p>
 
-</td>
-<td width="50%" valign="top">
-
-💳 FraudSense
-Credit-card fraud detection
+### 💳 [FraudSense](https://github.com/rafiul254/FraudSense)
+**ML · Credit-Card Fraud Detection**
 
 Tackles the 0.172%-fraud class-imbalance problem with SMOTE + Random Forest + XGBoost, evaluated on Precision/Recall/F1/ROC-AUC instead of misleading accuracy. Ships a dark-themed Flask app for real-time predictions.
 
-Python
-scikit-learn
-XGBoost
-SMOTE
-Flask
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/XGBoost-EB5B2E?logo=xgboost&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/SMOTE-8B5CF6?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white&style=flat-square" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-🦾 OopsStopper v1.0
-Edge-detection robot
+### 🦾 [OopsStopper v1.0](https://github.com/rafiul254/OopsStopper-v1.0)
+**Robotics · Edge Detection Bot**
 
 Autonomous Arduino Uno + IR sensor + L298N motor driver + 4WD chassis. Navigates elevated surfaces and refuses to drive off the edge — built for robotics education and table-safety demos. ▶ Demo
 
-C++
-Arduino
-L298N
-PlatformIO
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/L298N-FFD700?logo=arduino&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?logo=platformio&logoColor=white&style=flat-square" />
+</p>
 
-</td>
-<td width="50%" valign="top">
+---
 
-✋ AirControl Pro
-AI hand-gesture PC controller
+### ✋ [AirControl Pro](https://github.com/rafiul254/AirControl-Pro)
+**AI · Computer Vision · Gesture Controller**
 
-No mouse, no keyboard — just gestures + voice + face auth + emotion detection. MediaPipe Hands, scikit-learn gesture classifier, OpenCV face recognition, PyAutoGUI actuation.
+No mouse, no keyboard — just gestures + voice + face auth + emotion detection. MediaPipe Hands, scikit-learn gesture classifier, OpenCV face recognition, and PyAutoGUI actuation.
 
-Python
-OpenCV
-MediaPipe
-scikit-learn
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MediaPipe-0099A8?logo=google&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
+</p>
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
-<div align="center">
-<sub><i>And 34+ more repos — explore them all on my <a href="https://github.com/rafiul254?tab=repositories">profile</a> 🗂️</i></sub>
-</div>
+<p align="center">
+  <sub>And 34+ more repos — <a href="https://github.com/rafiul254?tab=repositories">explore them all 🗂️</a></sub>
+</p>
 
-<br/>
+<br>
+
+---
+
 
 🏆 Honors & Accomplishments
 <table>
@@ -302,7 +316,26 @@ scikit-learn
 
 <br/>
 
-📜 View all certifications (14+)
+<div align="center">
+
+| | Achievement | Organization |
+|:---:|:---|:---|
+| 🥇 | ICT Olympiad Bangladesh — Semi-Final (Engineering Track) | ICT Olympiad BD |
+| 🏆 | ILC 1.0 — National Top 100 Winner | ILC |
+| 🥉 | IoT & Robotics Contest — 3rd Place | UFTB |
+| 🧠 | ML Engineering Internship | SyntecXHub |
+| 🤖 | Master AI Voice Agents | Udemy |
+| ☁️ | Innovating with Google Cloud AI | Simplilearn |
+| 🔐 | Certified Cybersecurity Educator (CCEP) | Red Team Leaders |
+| 🐍 | Python for Data Science | IBM |
+| 💬 | Build Your Own Chatbot | IBM Watson |
+| 📡 | Introduction to IoT | Cisco |
+| 🔌 | PCB Designing Workshop | IEEE RAS IUT |
+| 📚 | Research Training (Zero to Publication) | BARTC |
+| ✍️ | Essay Competition — 3rd Place | Islamic Foundation |
+
+</div>
+
 <br/>
 
 🌍 Beyond the Code
@@ -321,7 +354,7 @@ scikit-learn
 <tr>
 <td width="33%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot-pulse.gif" width="160" alt="Travel"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot-pulse.gif" width="200" alt="Travel"/>
 
 <br/><br/>
 <strong>✈️ Travel</strong>
@@ -331,7 +364,7 @@ scikit-learn
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot-pulse.gif" width="160" alt="Books"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/iot-pulse.gif" width="200" alt="Books"/>
 
 <br/><br/>
 <strong>📚 Books</strong>
@@ -341,7 +374,7 @@ scikit-learn
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/hero.gif" width="160" alt="New Tech"/>
+<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/hero.gif" width="200" alt="New Tech"/>
 
 <br/><br/>
 <strong>🔬 New Tech</strong>
@@ -375,16 +408,14 @@ scikit-learn
 
 <br/>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rafiul254/rafiul254/main/assets/hero.gif" width="200" alt="Spider-Man Outro"/>
 
 <br/><br/>
 
 "Whatever comes next — I'm ready." 🕸️
 <br/>
 
-<sub><i>Crafted with 🌀 Doctor Strange · 🕹️ Spider-sense</i></sub>
-<br/><sub>© <b>Rafiul Islam</b> </sub>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Footer" />
+</p>
 
 </div>
